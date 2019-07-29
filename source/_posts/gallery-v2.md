@@ -1,6 +1,6 @@
 ---
 title: 相册 v2 - Flash习作
-website: /museum/site/08-gallery-v3/index.html
+website: /museum/site/07-gallery-v2/index.html
 date: 2010-11-23 22:01:54
 tags:
     - Flash

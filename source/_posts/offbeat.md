@@ -1,7 +1,7 @@
 ---
 title: 另类网 - 高中参赛作品
 website: /museum/site/05-offbeat/index.html
-date: 2007-02-26 09:58:56
+date: 2003-11-14 21:51:56
 tags:
     - 参赛作品
     - 人生道理
