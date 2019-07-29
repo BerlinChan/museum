@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<!--本文件不可重格式化，must use Tab as indent，否则标题会不显示-->
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">false</item>
+		<item name="copyright"><![CDATA[
+&#8226; BerlinFilm.Net © 2010 &#8226; <a href="asfunction:_root.more_click_func, privacyPolicy"><font color="#ffffff">Privacy policy</font></a> &#8226; 鄂ICP备10207989号
+		]]></item>
+		<item name="companyName"><![CDATA[Berlin<font color="#ff3e00">Film</font>]]></item>
+		<item name="slogan"><![CDATA[.Net]]></item>
+		<item name="back_txt"><![CDATA[BACK TO MENU]]></item>
+	</section>
+
+	<!-- menu -->
+<section name="menu">
+<link systemOrder="1"><![CDATA[
+<p align="center">返回首页</p>
+]]></link>
+
+<link systemOrder="2"><![CDATA[
+<p align="center">人物 肖像</p>
+]]></link>
+
+<link systemOrder="3"><![CDATA[
+<p align="center">风景 艺术</p>
+]]></link>
+
+<link systemOrder="4"><![CDATA[
+<p align="center">纪实 旅行</p>
+]]></link>
+
+<link systemOrder="5"><![CDATA[
+<p align="center">影视 CG</p>
+]]></link>
+
+<link systemOrder="6"><![CDATA[
+<p align="center">平面 设计</p>
+]]></link>
+
+<link systemOrder="7"><![CDATA[
+<p align="center">关于我</p>
+]]></link>
+
+</section>
+
+	<!-- pages -->
+	<section name="pages">
+
+<page name="home">
+<image imageUrl="0/pic1.jpg" link="asfunction:http://berlinfilm.net/blog/article/website/20101129_yijian.html"/>
+<image imageUrl="0/pic2.jpg" link="asfunction:link"/>
+<image imageUrl="0/pic3.png" link="asfunction:link"/>
+<image imageUrl="0/pic4.png" link="asfunction:link"/>
+<image imageUrl="0/pic5.jpg" link="asfunction:link"/>
+<image imageUrl="0/pic6.png" link="asfunction:link"/>
+<image imageUrl="0/pic7.png" link="asfunction:link"/>
+
+<texts>
+
+<pageText><![CDATA[
+最新作品
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>观看更多作品</u></a>
+]]></pageText>
+
+<pageText><![CDATA[
+欢迎
+]]></pageText>
+
+<pageText><![CDATA[
+　　欢迎访问BerlinFilm.Net！<br>
+　　这里的相册目前陈列了早期的摄影作品，并在逐步的添加中，摄影作品的分类目前暂定。如果您在任何方面有好的建议，请点击底部的“留言给我”，留下您宝贵的意见和联系方式，我会尽快回复并参考您的意见。
+]]></pageText>
+
+<pageText><![CDATA[
+关于我
+]]></pageText>
+
+<pageText><![CDATA[
+1987年出生<br>
+毕业于武汉体育学院<br>
+体育艺术专业 本科<br>
+现供职于一家房地产网站<br>
+<font color="#ffffff">
+<a href="asfunction:link">
+*  <u>项目1</u><br>
+*  <u>项目2</u><br>
+</a>
+<br>
+<a href="asfunction:_root.more_click_func,1">*  <u>陈柏林的简历</u></a>
+</font>
+]]></pageText>
+
+<pageText><![CDATA[
+博客精选
+]]></pageText>
+
+<pageText><![CDATA[
+<font color="#ffffff"><a href="asfunction:link"><u>有关著作权问题</u></a></font><br>
+有关肖像权问题<br>
+<textformat leading="-7"><br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,2">*  <u>其他</u></a></font>
+<.textformat>
+]]></pageText>
+
+
+<pageText><![CDATA[
+<font color="#ffffff"><a href="asfunction:link"><u>其他</u></a></font><br>
+其他
+<textformat leading="-7"><br>
+<font color="#ffffff"><a href="asfunction:_root.more_click_func,3">*  <u>其他</u></a></font>
+<.textformat>
+]]></pageText>
+
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 1
+]]></item>
+<item name="linkText"><![CDATA[
+read更多1
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 2
+]]></item>
+<item name="linkText"><![CDATA[
+read更多2
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 3
+]]></item>
+<item name="linkText"><![CDATA[
+read更多3
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+
+
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 4
+]]></item>
+<item name="linkText"><![CDATA[
+read更多4
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+</page>
+
+<page name="portfolio1">
+
+<pageGallery nameGallery="GALLERY 1" name="gallery1" line="4" maxImages="24">
+
+				<titleImages>
+					<smallImages>1/0033_small.jpg</smallImages>
+					<bigImages>1/0033_big.jpg</bigImages>
+					<comment><![CDATA[2009-11-14武汉体育学院《盛世华章文艺晚会》。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0032_small.jpg</smallImages>
+					<bigImages>1/0032_big.jpg</bigImages>
+					<comment><![CDATA[2009-11-14武汉体育学院《盛世华章文艺晚会》。<br>演员：钟文等]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0031_small.jpg</smallImages>
+					<bigImages>1/0031_big.jpg</bigImages>
+					<comment><![CDATA[2008-05-11，武汉森林公园。<br>演员：覃雯懿]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0030_small.jpg</smallImages>
+					<bigImages>1/0030_big.jpg</bigImages>
+					<comment><![CDATA[2008-05-11，武汉森林公园。<br>演员：覃雯懿]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0029_small.jpg</smallImages>
+					<bigImages>1/0029_big.jpg</bigImages>
+					<comment><![CDATA[2008-04-15全国烟草行业第四届文艺汇演-《迎亲》。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0028_small.jpg</smallImages>
+					<bigImages>1/0028_big.jpg</bigImages>
+					<comment><![CDATA[2008-04-15全国烟草行业第四届文艺汇演-《泰山赋》。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0027_small.jpg</smallImages>
+					<bigImages>1/0027_big.jpg</bigImages>
+					<comment><![CDATA[2008-04-15全国烟草行业第四届文艺汇演-《山东姑娘美》。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0026_small.jpg</smallImages>
+					<bigImages>1/0026_big.jpg</bigImages>
+					<comment><![CDATA[超现实儿童。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0025_small.jpg</smallImages>
+					<bigImages>1/0025_big.jpg</bigImages>
+					<comment><![CDATA[超现实儿童。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0024_small.jpg</smallImages>
+					<bigImages>1/0024_big.jpg</bigImages>
+					<comment><![CDATA[永支村的猫咪。香格里拉（云南迪庆），永支村。2008-08-08。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0023_small.jpg</smallImages>
+					<bigImages>1/0023_big.jpg</bigImages>
+					<comment><![CDATA[永支村当地的人们。香格里拉（云南迪庆），永支村。2008-08-07。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0022_small.jpg</smallImages>
+					<bigImages>1/0022_big.jpg</bigImages>
+					<comment><![CDATA[闲趣。香格里拉（云南迪庆），飞来寺。2008-08-06。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0021_small.jpg</smallImages>
+					<bigImages>1/0021_big.jpg</bigImages>
+					<comment><![CDATA[害羞的小男孩，本来在窗口看书，发现我拍摄的时候躲进去了。香格里拉（云南迪庆），永支村。2008-08-07。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0020_small.jpg</smallImages>
+					<bigImages>1/0020_big.jpg</bigImages>
+					<comment><![CDATA[摄影师。2009-06-30武汉下了一整月雨在月末下午突然放晴。在武汉很难一见这么好的能见度，放大照片甚至能看到磨山风景区的楚天台，从Google地图上测量距离我们观测的地点有5.23公里，太令人激动了。我们到教学楼顶上欣赏学校与东湖的美景。<br>演员：姜劲晖]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0019_small.jpg</smallImages>
+					<bigImages>1/0019_big.jpg</bigImages>
+					<comment><![CDATA[舞蹈，2009-06-23武汉体育学院艺术系06级汇报演出。<br>演员：梁云峰、陈远黛、周斯斯]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0018_small.jpg</smallImages>
+					<bigImages>1/0018_big.jpg</bigImages>
+					<comment><![CDATA[舞蹈，2009-06-23武汉体育学院艺术系06级汇报演出。<br>演员：孟强、]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0017_small.jpg</smallImages>
+					<bigImages>1/0017_big.jpg</bigImages>
+					<comment><![CDATA[舞蹈，2009-06-23武汉体育学院艺术系06级汇报演出。<br>演员：杜沛]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0016_small.jpg</smallImages>
+					<bigImages>1/0016_big.jpg</bigImages>
+					<comment><![CDATA[人像。<br>演员：蔡晗]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0015_small.jpg</smallImages>
+					<bigImages>1/0015_big.jpg</bigImages>
+					<comment><![CDATA[拉丁舞造型。<br>演员：东旭、蔡晗]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0014_small.jpg</smallImages>
+					<bigImages>1/0014_big.jpg</bigImages>
+					<comment><![CDATA[拉丁舞造型。<br>演员：东旭、蔡晗]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0012_small.jpg</smallImages>
+					<bigImages>1/0012_big.jpg</bigImages>
+					<comment><![CDATA[幸福童年，于宜昌葛洲坝公园。<br>演员：匿名]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0011_small.jpg</smallImages>
+					<bigImages>1/0011_big.jpg</bigImages>
+					<comment><![CDATA[大学时候Action戏剧社晚会上的表演。<br>演员：匿名]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0010_small.jpg</smallImages>
+					<bigImages>1/0010_big.jpg</bigImages>
+					<comment><![CDATA[陈柏林的肖像。<br>演员：陈柏林<br>摄影：马志杰]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0009_small.jpg</smallImages>
+					<bigImages>1/0009_big.jpg</bigImages>
+					<comment><![CDATA[音乐。<br>演员：车然]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0008_small.jpg</smallImages>
+					<bigImages>1/0008_big.jpg</bigImages>
+					<comment><![CDATA[湖边采风。<br>演员：蔡晗]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0007_small.jpg</smallImages>
+					<bigImages>1/0007_big.jpg</bigImages>
+					<comment><![CDATA[温暖的微笑。<br>演员：车然]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0006_small.jpg</smallImages>
+					<bigImages>1/0006_big.jpg</bigImages>
+					<comment><![CDATA[情侣。<br>演员：车然、陈柏林]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0005_small.jpg</smallImages>
+					<bigImages>1/0005_big.jpg</bigImages>
+					<comment><![CDATA[清晨操练的人们。<br>演员：匿名]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0004_small.jpg</smallImages>
+					<bigImages>1/0004_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院第七届运动会上，同学的激情舞姿。<br>演员：肖飞、陈远黛]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0003_small.jpg</smallImages>
+					<bigImages>1/0003_big.jpg</bigImages>
+					<comment><![CDATA[2008-06-24武汉体育学院艺术学院08届毕业汇演"不变的追求"健美操表演。<br>演员：匿名]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0002_small.jpg</smallImages>
+					<bigImages>1/0002_big.jpg</bigImages>
+					<comment><![CDATA[2008-06-24武汉体育学院艺术学院08届毕业汇演"不变的追求"现代舞表演。<br>演员：匿名]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>1/0001_small.jpg</smallImages>
+					<bigImages>1/0001_big.jpg</bigImages>
+					<comment><![CDATA[这张照片的念头来自于一款叫做《寂静岭》的游戏，镜子里外的世界如此不同，却难以说清到底哪个才是现实。拍摄于我家洗手间，边上的污渍纹理采集于大学寝室厕所门。<br>演员：陈柏林]]></comment>
+				</titleImages>
+
+		</pageGallery>
+
+<texts>
+
+<pageText><![CDATA[
+人物 肖像
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>更多1MORE WORKS</u></a>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 1
+]]></item>
+<item name="linkText"><![CDATA[
+E-MAIL: <font color="#ffffff"><u><a href="mailto:Berlin@BerlinFilm.Net">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+</page>
+
+<page name="portfolio2">
+
+<pageGallery nameGallery="GALLERY 1" name="gallery1" line="4" maxImages="24">
+
+				<titleImages>
+					<smallImages>2/0059_small.jpg</smallImages>
+					<bigImages>2/0059_big.jpg</bigImages>
+					<comment><![CDATA[圆，武汉解放公园。2009-03-07。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0058_small.jpg</smallImages>
+					<bigImages>2/0058_big.jpg</bigImages>
+					<comment><![CDATA[夜魅武汉，武汉江滩。2008-05-02。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0057_small.jpg</smallImages>
+					<bigImages>2/0057_big.jpg</bigImages>
+					<comment><![CDATA[神农架，板壁岩。2009-05-02。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0056_small.jpg</smallImages>
+					<bigImages>2/0056_big.jpg</bigImages>
+					<comment><![CDATA[重庆奥林匹克体育中心。2008-08-19。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0055_small.jpg</smallImages>
+					<bigImages>2/0055_big.jpg</bigImages>
+					<comment><![CDATA[大理国际奥林匹克体育中心，云南大理。2008-08-14。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0054_small.jpg</smallImages>
+					<bigImages>2/0054_big.jpg</bigImages>
+					<comment><![CDATA[飞来寺的建筑元素，香格里拉（云南迪庆），飞来寺。2008-08-08。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0053_small.jpg</smallImages>
+					<bigImages>2/0053_big.jpg</bigImages>
+					<comment><![CDATA[金沙江第一湾，云南迪庆。不得不惊叹造物的神奇。手持拍摄，后期接片竟然成功，很是惊喜。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0052_small.jpg</smallImages>
+					<bigImages>2/0052_big.jpg</bigImages>
+					<comment><![CDATA[雨过天晴，武体风景。2009-06-30，武汉下了一整月雨在月末下午突然放晴。在武汉很难一见这么好的能见度，放大照片甚至能看到磨山风景区的楚天台，从Google地图上测量距离我们观测的地点有5.23公里，太令人激动了。我们到教学楼顶上欣赏学校与东湖的美景，照片后期拼接而成。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0051_small.jpg</smallImages>
+					<bigImages>2/0051_big.jpg</bigImages>
+					<comment><![CDATA[武体微缩影像-武体东田。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0050_small.jpg</smallImages>
+					<bigImages>2/0050_big.jpg</bigImages>
+					<comment><![CDATA[武体微缩影像-武体灯光网球场，09年6月武汉下了一整月雨后放晴，天空和球场都洗刷一新。我们到教学楼顶上拍摄这幅照片，后期处理成移轴镜头的浅景深效果。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0049_small.jpg</smallImages>
+					<bigImages>2/0049_big.jpg</bigImages>
+					<comment><![CDATA[武体微缩影像-武体行政楼，09年6月武汉下了一整月雨后放晴，天空和球场都洗刷一新。我们到教学楼顶上拍摄这幅照片，后期处理成移轴镜头的浅景深效果。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0048_small.jpg</smallImages>
+					<bigImages>2/0048_big.jpg</bigImages>
+					<comment><![CDATA[雨中东湖，4月武汉的大雨，想象中应该能拍到湖面上浅浅的薄雾，虽然没找到那种效果，也得到了不错的画面。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0047_small.jpg</smallImages>
+					<bigImages>2/0047_big.jpg</bigImages>
+					<comment><![CDATA[武汉东湖，使用了圆形偏振滤镜。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0046_small.jpg</smallImages>
+					<bigImages>2/0046_big.jpg</bigImages>
+					<comment><![CDATA[宜昌风景-夷陵长江大桥。日落时分，金黄的阳光打在岸边石头上，我用偏振滤镜消除水面的部分反光，显露出水深浅处不同的颜色，只是苍白的天空略显遗憾。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0045_small.jpg</smallImages>
+					<bigImages>2/0045_big.jpg</bigImages>
+					<comment><![CDATA[宜昌风景-夷陵长江大桥。尽可能的靠近江面拍下我喜欢的灯光倒影，并用较小的光圈让桥上的灯展现漂亮的星芒。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0044_small.jpg</smallImages>
+					<bigImages>2/0044_big.jpg</bigImages>
+					<comment><![CDATA[宜昌风景-葛洲坝分水岭。晚饭后散步来到坝上的分水岭，正好遇上河对面放烟花，我把相机按在栏杆上拍下这难得的一幕。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0043_small.jpg</smallImages>
+					<bigImages>2/0043_big.jpg</bigImages>
+					<comment><![CDATA[宜昌风景-滨江晚霞。傍晚和朋友吃完饭出来，正赶上大雨后放晴，很庆幸我当时带着相机和脚架……]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0042_small.jpg</smallImages>
+					<bigImages>2/0042_big.jpg</bigImages>
+					<comment><![CDATA[初春的东湖边。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0041_small.jpg</smallImages>
+					<bigImages>2/0041_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，行政楼接待室。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0040_small.jpg</smallImages>
+					<bigImages>2/0040_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，信息技术馆。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0039_small.jpg</smallImages>
+					<bigImages>2/0039_big.jpg</bigImages>
+					<comment><![CDATA[如镜东湖。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0038_small.jpg</smallImages>
+					<bigImages>2/0038_big.jpg</bigImages>
+					<comment><![CDATA[湖北宜昌夷陵长江大桥与垂钓者。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0037_small.jpg</smallImages>
+					<bigImages>2/0037_big.jpg</bigImages>
+					<comment><![CDATA[不是想象的那么容易。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0036_small.jpg</smallImages>
+					<bigImages>2/0036_big.jpg</bigImages>
+					<comment><![CDATA[不是想象的那么容易。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0035_small.jpg</smallImages>
+					<bigImages>2/0035_big.jpg</bigImages>
+					<comment><![CDATA[武汉大学秋天一景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0034_small.jpg</smallImages>
+					<bigImages>2/0034_big.jpg</bigImages>
+					<comment><![CDATA[屋檐角。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0033_small.jpg</smallImages>
+					<bigImages>2/0033_big.jpg</bigImages>
+					<comment><![CDATA[武汉大学一景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0032_small.jpg</smallImages>
+					<bigImages>2/0032_big.jpg</bigImages>
+					<comment><![CDATA[武汉大学一景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0031_small.jpg</smallImages>
+					<bigImages>2/0031_big.jpg</bigImages>
+					<comment><![CDATA[武汉体院的秋天。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0030_small.jpg</smallImages>
+					<bigImages>2/0030_big.jpg</bigImages>
+					<comment><![CDATA[建筑装饰。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0029_small.jpg</smallImages>
+					<bigImages>2/0029_big.jpg</bigImages>
+					<comment><![CDATA[足球。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0028_small.jpg</smallImages>
+					<bigImages>2/0028_big.jpg</bigImages>
+					<comment><![CDATA[小路。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0027_small.jpg</smallImages>
+					<bigImages>2/0027_big.jpg</bigImages>
+					<comment><![CDATA[武昌马家庄的日出。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0026_small.jpg</smallImages>
+					<bigImages>2/0026_big.jpg</bigImages>
+					<comment><![CDATA[接力赛跑的运动员。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0025_small.jpg</smallImages>
+					<bigImages>2/0025_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，体育科学馆天台，抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0024_small.jpg</smallImages>
+					<bigImages>2/0024_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，新图书馆外墙，亮丽的色彩和抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0023_small.jpg</smallImages>
+					<bigImages>2/0023_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，体育科学馆走廊。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0022_small.jpg</smallImages>
+					<bigImages>2/0022_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，体育科学馆幕墙，抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0021_small.jpg</smallImages>
+					<bigImages>2/0021_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，中央喷泉，抽象的线条和丰富的纹理。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0020_small.jpg</smallImages>
+					<bigImages>2/0020_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，重竞技馆，抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0019_small.jpg</smallImages>
+					<bigImages>2/0019_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，重竞技馆，抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0018_small.jpg</smallImages>
+					<bigImages>2/0018_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，奥星苑一处楼梯，抽象的螺旋线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0017_small.jpg</smallImages>
+					<bigImages>2/0017_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，奥星苑一处楼梯，抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0016_small.jpg</smallImages>
+					<bigImages>2/0016_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，奥星苑一处墙面，抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0015_small.jpg</smallImages>
+					<bigImages>2/0015_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，一处烟囱，夜晚天空的蓝与灯光混合成迷人的紫色。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0014_small.jpg</smallImages>
+					<bigImages>2/0014_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，奥林广场夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0013_small.jpg</smallImages>
+					<bigImages>2/0013_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，教学楼中庭小路夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0012_small.jpg</smallImages>
+					<bigImages>2/0012_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，教学楼扶梯，强烈对比的抽象线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0011_small.jpg</smallImages>
+					<bigImages>2/0011_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，教学楼，教室。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0010_small.jpg</smallImages>
+					<bigImages>2/0010_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，教学楼中庭夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0009_small.jpg</smallImages>
+					<bigImages>2/0009_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，行政楼夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0008_small.jpg</smallImages>
+					<bigImages>2/0008_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，教学楼中庭夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0007_small.jpg</smallImages>
+					<bigImages>2/0007_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，灯光网球场。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0006_small.jpg</smallImages>
+					<bigImages>2/0006_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，篮球馆的窗户，我很喜欢照片中建筑物抽象的线条。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0005_small.jpg</smallImages>
+					<bigImages>2/0005_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0004_small.jpg</smallImages>
+					<bigImages>2/0004_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0003_small.jpg</smallImages>
+					<bigImages>2/0003_big.jpg</bigImages>
+					<comment><![CDATA[武汉体育学院，冠军园夜景。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0002_small.jpg</smallImages>
+					<bigImages>2/0002_big.jpg</bigImages>
+					<comment><![CDATA[大学时候在哪个同学手机里看过一枚戒指在书缝中投出美丽的影子，于是就有了这个恶搞的图片。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0001_small.jpg</smallImages>
+					<bigImages>2/0001_big.jpg</bigImages>
+					<comment><![CDATA[大学时候女朋友送的生日礼物，她也是一个喜欢照片的人。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>2/0000_small.jpg</smallImages>
+					<bigImages>2/0000_big.jpg</bigImages>
+					<comment><![CDATA[武汉江汉关]]></comment>
+				</titleImages>
+
+		</pageGallery>
+
+
+<texts>
+
+<pageText><![CDATA[
+风景 艺术
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>更多2MORE WORKS</u></a>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 2
+]]></item>
+<item name="linkText"><![CDATA[
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+</page>
+
+<page name="portfolio3">
+
+<pageGallery nameGallery="GALLERY 1" name="gallery1" line="4" maxImages="24">
+
+				<titleImages>
+					<smallImages>3/0037_small.jpg</smallImages>
+					<bigImages>3/0037_big.jpg</bigImages>
+					<comment><![CDATA[2009年校运会开幕式全景，武汉体育学院。2009-11-05。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0036_small.jpg</smallImages>
+					<bigImages>3/0036_big.jpg</bigImages>
+					<comment><![CDATA[食堂，武汉体育学院。2009-11-06。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0035_small.jpg</smallImages>
+					<bigImages>3/0035_big.jpg</bigImages>
+					<comment><![CDATA[食堂，武汉体育学院。2009-11-06。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0034_small.jpg</smallImages>
+					<bigImages>3/0034_big.jpg</bigImages>
+					<comment><![CDATA[食堂，武汉体育学院。2009-11-06。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0033_small.jpg</smallImages>
+					<bigImages>3/0033_big.jpg</bigImages>
+					<comment><![CDATA[喜悦，武汉。2009-01-10。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0032_small.jpg</smallImages>
+					<bigImages>3/0032_big.jpg</bigImages>
+					<comment><![CDATA[扫街，武汉。2009-01-10。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0031_small.jpg</smallImages>
+					<bigImages>3/0031_big.jpg</bigImages>
+					<comment><![CDATA[摄影师的角度，武汉。2008-06-07。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0030_small.jpg</smallImages>
+					<bigImages>3/0030_big.jpg</bigImages>
+					<comment><![CDATA[排排站拍模特，汉口江滩。2008-05-17。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0029_small.jpg</smallImages>
+					<bigImages>3/0029_big.jpg</bigImages>
+					<comment><![CDATA[这柔韧还不错吧，汉口江滩。2008-05-01。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0028_small.jpg</smallImages>
+					<bigImages>3/0028_big.jpg</bigImages>
+					<comment><![CDATA[商业活动。2008-12-21。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0027_small.jpg</smallImages>
+					<bigImages>3/0027_big.jpg</bigImages>
+					<comment><![CDATA[盘山公路。湖北神龙架。2009-05-02。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0026_small.jpg</smallImages>
+					<bigImages>3/0026_big.jpg</bigImages>
+					<comment><![CDATA[昆明翠湖。云南昆明。2008-08-17。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0025_small.jpg</smallImages>
+					<bigImages>3/0025_big.jpg</bigImages>
+					<comment><![CDATA[昆明动物园的鸭子们。云南昆明。2008-08-17。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0024_small.jpg</smallImages>
+					<bigImages>3/0024_big.jpg</bigImages>
+					<comment><![CDATA[这天、这地、这路还有路上悠闲的奶牛，云南大理是我向往的地方。2008-08-14。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0023_small.jpg</smallImages>
+					<bigImages>3/0023_big.jpg</bigImages>
+					<comment><![CDATA[渔船。云南大理洱海。2008-08-13。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0022_small.jpg</smallImages>
+					<bigImages>3/0022_big.jpg</bigImages>
+					<comment><![CDATA[云南丽江古城晚上的一些灯红酒绿、电音喧哗。云南丽江古城。2008-08-11。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0021_small.jpg</smallImages>
+					<bigImages>3/0021_big.jpg</bigImages>
+					<comment><![CDATA[在热闹的丽江古城小道听见钢琴声。云南丽江古城。2008-08-10。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0020_small.jpg</smallImages>
+					<bigImages>3/0020_big.jpg</bigImages>
+					<comment><![CDATA[有趣的客栈。云南丽江古城。2008-08-10。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0019_small.jpg</smallImages>
+					<bigImages>3/0019_big.jpg</bigImages>
+					<comment><![CDATA[有趣的客栈和狗。云南丽江古城。2008-08-10。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0018_small.jpg</smallImages>
+					<bigImages>3/0018_big.jpg</bigImages>
+					<comment><![CDATA[宜昌市商业步行街。大概1998年吧，具体也记不清，宜昌商业中心从解放路转移到铁路坝，铁路坝也一直是这样了，商业城拆了修夷陵广场、商业城拆了修新商业城、商业城拆了修CBD，苦命的商业城，现如今商业城的气氛仍然一如从前。2009-01-19。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0017_small.jpg</smallImages>
+					<bigImages>3/0017_big.jpg</bigImages>
+					<comment><![CDATA[路过，2009-08-04。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0016_small.jpg</smallImages>
+					<bigImages>3/0016_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天，毫无生气的课堂，2009-03-24。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0015_small.jpg</smallImages>
+					<bigImages>3/0015_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天，上课迟到被拒门外，2009-03-09。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0014_small.jpg</smallImages>
+					<bigImages>3/0014_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天，2009-04-13。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0013_small.jpg</smallImages>
+					<bigImages>3/0013_big.jpg</bigImages>
+					<comment><![CDATA[“刻桌”文化，2009-03-06。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0012_small.jpg</smallImages>
+					<bigImages>3/0012_big.jpg</bigImages>
+					<comment><![CDATA[采访法国兴业银行（中国）有限公司个人银行业务总监欧阳春炜。法兴银行杯"骑"乐无穷自行车赛武汉站，2009-08-30。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0011_small.jpg</smallImages>
+					<bigImages>3/0011_big.jpg</bigImages>
+					<comment><![CDATA[关键词被屏蔽，2009-03-14武汉广埠屯。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0010_small.jpg</smallImages>
+					<bigImages>3/0010_big.jpg</bigImages>
+					<comment><![CDATA[众人划桨开大船，2009-03-01武汉虎泉。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0009_small.jpg</smallImages>
+					<bigImages>3/0009_big.jpg</bigImages>
+					<comment><![CDATA[……]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0008_small.jpg</smallImages>
+					<bigImages>3/0008_big.jpg</bigImages>
+					<comment><![CDATA[风雨烈士，拍摄于09年清明节，武汉解放公园苏军烈士墓。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0007_small.jpg</smallImages>
+					<bigImages>3/0007_big.jpg</bigImages>
+					<comment><![CDATA[风车被吹掉，爷爷只好停下自行车为小女孩捡起来。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0006_small.jpg</smallImages>
+					<bigImages>3/0006_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0005_small.jpg</smallImages>
+					<bigImages>3/0005_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0004_small.jpg</smallImages>
+					<bigImages>3/0004_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0003_small.jpg</smallImages>
+					<bigImages>3/0003_big.jpg</bigImages>
+					<comment><![CDATA[大学平凡的一天。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0002_small.jpg</smallImages>
+					<bigImages>3/0002_big.jpg</bigImages>
+					<comment><![CDATA[2008-11-8武汉体育学院第七届运动会，在长跑赛场上的裁判们。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0001_small.jpg</smallImages>
+					<bigImages>3/0001_big.jpg</bigImages>
+					<comment><![CDATA[2008-11-8武汉体育学院第七届运动会上的摄影师们。]]></comment>
+				</titleImages>
+
+				<titleImages>
+					<smallImages>3/0000_small.jpg</smallImages>
+					<bigImages>3/0000_big.jpg</bigImages>
+					<comment><![CDATA[武汉体院学院，55年校庆晚会某处的冲突。]]></comment>
+				</titleImages>
+
+		</pageGallery>
+
+<texts>
+
+<pageText><![CDATA[
+纪实 旅行
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>更多3MORE WORKS</u></a>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 3
+]]></item>
+<item name="linkText"><![CDATA[
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+</page>
+
+<page name="portfolio4">
+
+<pageGallery nameGallery="GALLERY 1" name="gallery1" line="4" maxImages="24">
+
+				<titleImages>
+					<smallImages>1/0001_small.jpg</smallImages>
+					<bigImages>1/0001_big.jpg</bigImages>
+					<comment><![CDATA[这张照片的念头来自于一款叫做《寂静岭》的游戏，镜子里外的世界如此不同，却难以说清到底哪个才是现实。拍摄于我家洗手间，边上的污渍纹理采集于大学寝室厕所门。<br>演员：陈柏林]]></comment>
+				</titleImages>
+
+		</pageGallery>
+
+
+<texts>
+
+<pageText><![CDATA[
+影视 CG
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>更多4MORE WORKS</u></a>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 4
+]]></item>
+<item name="linkText"><![CDATA[
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+</page>
+
+<page name="portfolio5">
+
+<pageGallery nameGallery="GALLERY 1" name="gallery1" line="4" maxImages="24">
+	</pageGallery>
+
+
+<texts>
+
+<pageText><![CDATA[
+平面 设计
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>更多5MORE WORKS</u></a>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 5
+]]></item>
+<item name="linkText"><![CDATA[
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+</page>
+
+<page name="portfolio6">
+
+<pageGallery nameGallery="GALLERY 1" name="gallery1" line="4" maxImages="24">
+
+		</pageGallery>
+
+<texts>
+
+<pageText><![CDATA[
+关于我
+]]></pageText>
+
+<pageText><![CDATA[
+<a href="asfunction:_root.more_click_func,0">*  <u>更多6MORE WORKS</u></a>
+]]></pageText>
+
+</texts>
+
+<link linkType="readMoreLink">
+<item name="title"><![CDATA[
+READ MORE 6
+]]></item>
+<item name="linkText"><![CDATA[
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+
+]]></item>
+</link>
+
+</page>
+
+</section>
+
+<!-- privacy policy -->
+<section name="privacyPolicy">
+<item name="pageTitle"><![CDATA[
+PRIVACY POLICY
+ ]]></item>
+<item name="pageText"><![CDATA[有关著作权问题<br>
+有关肖像权问题
+<br><br>
+E-MAIL: <font color="#ffffff"><u><a href="asfunction:link">Berlin@BerlinFilm.Net</a></u></font>
+]]></item>
+</section>
+<!-- privacy policy -->
+
+</content>

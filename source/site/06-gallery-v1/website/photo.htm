@@ -1,0 +1,53 @@
+<HTML>
+<HEAD>
+    <META content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <LINK href="./data/style_photo.css" rel="stylesheet" type="text/css">
+    <SCRIPT language="JavaScript" type="text/javascript">
+      var DBpath = location.href.split('?')[1]
+      DBpath = DBpath.split('&')[0]
+      DBpath = DBpath.split('=')[1]
+      var counter = location.href.split('?')[1]
+      counter = counter.split('&')[1]
+      counter = counter.split('=')[1]
+      counter = parseInt(counter)//指向缩略图每一页的第一张图
+      var imagePtr = counter//指向正在下载的缩略图
+      var isPlaying = false//是否正在播放
+      var isFirstPlay = true//是否是第一次播放
+      var slideShowPtr = 0
+      var timeoutID
+    </SCRIPT>
+    <SCRIPT language="JavaScript" src="./data/global_value.js" type="text/javascript"></SCRIPT>
+    <SCRIPT language="JavaScript" src="./data/menuDB.js" type="text/javascript"></SCRIPT>
+    <SCRIPT language="JavaScript" src="./data/common.js" type="text/javascript"></SCRIPT>
+    <SCRIPT ID="DB" language="JavaScript" src="" type="text/javascript"></SCRIPT>
+</HEAD>
+<BODY>
+<DIV id="ImageLayer">ImageLayer</DIV>
+<DIV id="ControlLayer">ControlLayer</DIV>
+<SCRIPT language="JavaScript" type="text/javascript">
+  function loadScript (url, callback) {
+    var script = document.createElement('script')
+    script.type = 'text/javascript'
+    if (script.readyState) { //IE
+      script.onreadystatechange = function () {
+        if (script.readyState == 'loaded' || script.readyState == 'complete') {
+          script.onreadystatechange = null
+          callback()
+        }
+      }
+    } else { //Others
+      script.onload = function () {
+        callback()
+      }
+    }
+    script.src = url
+    document.getElementsByTagName('head')[0].appendChild(script)
+  }
+
+  loadScript(DBpath, function () {
+    //printTitle()
+    printThumbs()
+  })
+</SCRIPT>
+</BODY>
+</HTML>
