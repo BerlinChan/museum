@@ -7,19 +7,18 @@
                     <div class="media-left">
                         <figure class="image is-48x48">
                             <img src="<%- gravatar(theme.gravatar, { s: 48, d: 'mm' }) %>" alt="Image">
-
                         </figure>
                     </div>
                     <div class="media-content">
-                        <h1 class="title is-4"><a href="<%- config.root %><%- item.path %>"
-                                                  class="has-text-info"> <%- item.title || item.link %></a></h1>
+                        <h1 class="title is-4">
+                            <a href="<%- config.root %><%- item.path %>"
+                               class="has-text-info"> <%- item.title || item.link %></a>
+                        </h1>
                         <p class="subtitle is-6">
-                            <span class="icon is-small"><i
-                                        class="fa fa-calendar"></i></span> <%= item.date.format(config.date_format) %>
-                            &nbsp; &nbsp; &nbsp; &nbsp;
-                            <span class="icon is-small"><i
-                                        class="fa fa-user"></i></span> <%- item.author ? item.author : config.author %>
-
+                            <span class="icon is-small"><i class="fa fa-calendar"></i></span>
+                            <%= item.date.format(config.date_format) %>&nbsp; &nbsp; &nbsp; &nbsp;
+                            <span class="icon is-small"><i class="fa fa-user"></i></span>
+                            <%- item.author ? item.author : config.author %>
                         </p>
                     </div>
                 </div>

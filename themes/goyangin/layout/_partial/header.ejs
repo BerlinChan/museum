@@ -5,19 +5,21 @@
     <div class="hero-body has-text-centered is-paddingless">
         <a href="<%= theme.menu.Home %>"><h1 class="title"> <%= config.title %> </h1></a>
         <h2 class="subtitle">
-            <% if (config.subtitle){ %><%= config.subtitle %>
+            <% if (config.subtitle){ %>
+                <%= config.subtitle %>
             <% } %>
         </h2>
 
         <% Object.keys(theme.social).forEach(function(key) { %>
             <% if (key == 'email'){ %>
                 <a class="button is-info is-outlined" href="mailto:<%= theme.social[key] %>?" title="<%= key.trim() %>">
-                    <span class="icon"><i class="fa fa-envelope"></i> </span></a>
+                    <span class="icon"><i class="fa fa-envelope"></i> </span>
+                </a>
             <% } else { %>
-                <a class="button is-info is-outlined" href="<%= theme.social[key] %>"><span class="icon"> <i
-                                class="fa fa-<%= key.toLowerCase() %>"></i> </span></a>
+                <a class="button is-info is-outlined" href="<%= theme.social[key] %>">
+                    <span class="icon"> <i class="fa fa-<%= key.toLowerCase() %>"></i> </span>
+                </a>
             <% } %>
         <% }) %>
-
     </div>
 </section>
