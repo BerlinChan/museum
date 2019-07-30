@@ -1,8 +1,8 @@
 # Header link with icon font awesome (fa-icon : link)
 # name auto font awesome
 menu:
-  Home: /museum
-  Archive: /museum/archives
+  Home: /
+  Archive: /archives
 
 grid: 2 # change index columns /line
 gravatar: berlinchancom@gmail.com #img gravatar in post
@@ -17,7 +17,7 @@ google_analytics: UA-43244265-4
 # if u want add more profile media social (icon same as Fontawesome)
 #  just add name ex : Instagram: https://www.instagram.com/you/
 social:
-  Github: https://github.com/BerlinChan/museum
+  Github: https://github.com/BerlinChan
   Twitter: https://twitter.com/BerlinChanCom
   Facebook: https://facebook.com/berlinchancom
 #  Google-plus: https://plus.google.com/104751165505597913805

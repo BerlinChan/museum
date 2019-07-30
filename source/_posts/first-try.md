@@ -1,6 +1,6 @@
 ---
 title: 个人主页 - 习作
-website: /museum/site/01-study/index.html
+website: /site/01-study/index.html
 date: 2000-12-30 19:10:29
 tags:
     - 习作
@@ -8,8 +8,8 @@ tags:
     - 网页三剑客
 ---
 
-[![页面截图](./first-try/first-try.jpg)](/museum/site/01-study/index.html)
-[个人主页习作>>](/museum/site/01-study/index.html)
+[![页面截图](./first-try/first-try.jpg)](/site/01-study/index.html)
+[个人主页习作>>](/site/01-study/index.html)
 
 ## 年代
 约2000年

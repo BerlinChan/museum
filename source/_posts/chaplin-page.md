@@ -1,14 +1,14 @@
 ---
 title: 卓别林之页 - 习作
-website: /museum/site/02-study-Chaplin/index.html
+website: /site/02-study-Chaplin/index.html
 date: 2002-05-12 19:38:25
 tags:
     - 卓别林
     - 抠图
 ---
 
-[![页面截图](./chaplin-page/web21-chaplin.jpg)](/museum/site/02-study-Chaplin/index.html)
-[卓别林之页>>](/museum/site/02-study-Chaplin/index.html)
+[![页面截图](./chaplin-page/web21-chaplin.jpg)](/site/02-study-Chaplin/index.html)
+[卓别林之页>>](/site/02-study-Chaplin/index.html)
 
 ## 年代
 约2002年
@@ -33,7 +33,7 @@ tags:
 
 > We have some fantastic tools, so use them and make something great. 
 
-动画片猫和老鼠除没有对白，画面也从未出现人类上半身。后来在制作[纪录片《自由的家猫》](https://berlinchan.github.io/awildpetcat/)中也避免出现人物上半身，影片反而更加精炼，专注于主角的故事了。
+动画片猫和老鼠除没有对白，画面也从未出现人类上半身。后来在制作[纪录片《自由的家猫》](https://awildpetcat.com)中也避免出现人物上半身，影片反而更加精炼，专注于主角的故事了。
 
 ## 题外话
 继录像带后VCD成为了流行。爸爸买了一台带卡拉OK的三碟连放万利达VCD，可不得了了，邻居小朋友都到我家来看。

@@ -1,6 +1,6 @@
 ---
 title: 另类网 - 高中参赛作品
-website: /museum/site/05-offbeat/index.html
+website: /site/05-offbeat/index.html
 date: 2003-11-14 21:51:56
 tags:
     - 参赛作品
@@ -9,8 +9,8 @@ tags:
     - 审查
 ---
 
-[![页面截图](./offbeat/offbeat.jpg)](/museum/site/05-offbeat/index.html)
-[另类网 >>](/museum/site/05-offbeat/index.html)
+[![页面截图](./offbeat/offbeat.jpg)](/site/05-offbeat/index.html)
+[另类网 >>](/site/05-offbeat/index.html)
 
 ## 年代
 约2007年2月
@@ -20,9 +20,9 @@ tags:
 
 从页面背景图来回顾，那时候正流行玩泡泡堂。顶部全局导航右侧的男生女生图是某个 QQ秀图片，页底部的绿山图是 GBA 游戏超级玛丽 rom 中抠的。本站设计同样模仿另外一个网站，大概是 wqxsky.net。
 
-一些人生的道理在那时期逐渐形成，像“不到另类非高手”，这是“另类网”这个网站标题的来源，还有“没有做不到，只怕想不到”，在[人生信条](https://berlinchan.github.io/museum/site/05-offbeat/page/myself/motto.html)页面有记载。
+一些人生的道理在那时期逐渐形成，像“不到另类非高手”，这是“另类网”这个网站标题的来源，还有“没有做不到，只怕想不到”，在[人生信条](https://museum.berlinchan.com/site/05-offbeat/page/myself/motto.html)页面有记载。
 
-我接触电脑、学习编程的经历，在页面[我的成长](https://berlinchan.github.io/museum/site/05-offbeat/page/myself/grow.html)有记载，从文字中再次感觉自己既是当今教育的受害者也是幸存者。页面最后一句话
+我接触电脑、学习编程的经历，在页面[我的成长](https://museum.berlinchan.com/site/05-offbeat/page/myself/grow.html)有记载，从文字中再次感觉自己既是当今教育的受害者也是幸存者。页面最后一句话
 
 > 我必将成为一名优秀的程序员
 

@@ -2,16 +2,29 @@
 <%- js('js/ie10-viewport-bug-workaround.js') %>
 <%- js('js/app.js') %>
 <% if (theme.disqus_shortname){ %>
-    <script type="text/javascript">
-        var disqus_shortname = '<%= theme.disqus_shortname %>';
-        (function(){
-            var dsq = document.createElement('script');
-            dsq.type = 'text/javascript';
-            dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments){ %>embed.js<% } else { %>count.js<% } %>';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        }());
+    <script>
+      var disqus_shortname = '<%= theme.disqus_shortname %>';
+
+      (function () { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.async = true;
+        s.src = 'https://' + disqus_shortname + '.disqus.com/<% if (page.comments){ %>embed.js<% } else { %>count.js<% } %>';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+          <% if(page.comments){ %>
+        /**
+         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+        var disqus_config = function () {
+          this.page.url = '<%= page.permalink %>';  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = '<%= page.path %>'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+          <% } %>
+      })();
     </script>
+    <noscript>Please enable JavaScript to view the
+        <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
 <% } %>
 
 <% if (theme.google_analytics){ %>
@@ -19,7 +32,9 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=<%= theme.google_analytics %>"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+
+      function gtag () {dataLayer.push(arguments);}
+
       gtag('js', new Date());
 
       gtag('config', '<%= theme.google_analytics %>');

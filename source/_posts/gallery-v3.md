@@ -1,6 +1,6 @@
 ---
 title: 相册 v3 - Flash习作
-website: /museum/site/08-gallery-v3/index.html
+website: /site/08-gallery-v3/index.html
 date: 2011-06-20 13:10:40
 tags:
     - Flash
@@ -8,8 +8,8 @@ tags:
     - 摄影
 ---
 
-[![页面截图](./gallery-v3/gallery-v3.jpg)](/museum/site/08-gallery-v3/index.html)
-[相册 v3 >>](/museum/site/08-gallery-v3/index.html)
+[![页面截图](./gallery-v3/gallery-v3.jpg)](/site/08-gallery-v3/index.html)
+[相册 v3 >>](/site/08-gallery-v3/index.html)
 
 ## 年代
 

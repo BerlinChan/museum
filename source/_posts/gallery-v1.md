@@ -1,6 +1,6 @@
 ---
 title: 相册 v1 - Javascript习作
-website: /museum/site/06-gallery-v1/website/index.html
+website: /site/06-gallery-v1/website/index.html
 date: 2006-09-20 19:58:56
 tags:
     - Javascript
@@ -9,8 +9,8 @@ tags:
     - 相机
 ---
 
-[![页面截图](./gallery-v1/gallery-v1.jpg)](/museum/site/06-gallery-v1/website/index.html)
-[相册 v1 >>](/museum/site/06-gallery-v1/website/index.html)
+[![页面截图](./gallery-v1/gallery-v1.jpg)](/site/06-gallery-v1/website/index.html)
+[相册 v1 >>](/site/06-gallery-v1/website/index.html)
 
 ## 年代
 约2006年9月
@@ -27,4 +27,4 @@ tags:
 
 之前大伯有台 CASIO数码相机，每次能拍摄8张照片，连接电脑用打印机的并口（那时候 USB 是高端设备才有的接口），分辨率约为10万像素。我借来玩过几回，还有不少这相机拍摄的照片我至今留着。数码、电子产品对我就是有种莫名的吸引，就像是大孩子的玩具非要闹着买一台。
 
-随着数码相机的普及，互联网内容也逐渐由纯文本走向多媒体，下一个网站项目[另类网](/museum/2007/02/26/offbeat/)也放了很多照片。
+随着数码相机的普及，互联网内容也逐渐由纯文本走向多媒体，下一个网站项目[另类网](/2007/02/26/offbeat/)也放了很多照片。
