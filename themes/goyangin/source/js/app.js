@@ -16,9 +16,6 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
   }
-   var sr  = document.getElementById('search');
-  (window.screen.width < 800) ? sr.style.width= "" :  sr.style.width= "300px";
-
 });
 
 
@@ -40,4 +37,3 @@ if (value !== ""){
     document.getElementById('gp').setAttribute("href", "https://plus.google.com/share?url="+value);
     document.getElementById('pt').setAttribute("href", "http://pinterest.com/pin/create/button/?url="+value);
 }
-
