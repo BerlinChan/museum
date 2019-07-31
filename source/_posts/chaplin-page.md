@@ -1,7 +1,7 @@
 ---
 title: 卓别林之页 - 习作
 website: /site/02-study-Chaplin/index.html
-date: 2002-05-12 19:38:25
+date: 2002-05-12 09:04:36
 tags:
     - 卓别林
     - 抠图

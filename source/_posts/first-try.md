@@ -1,7 +1,7 @@
 ---
 title: 个人主页 - 习作
 website: /site/01-study/index.html
-date: 2000-12-30 19:10:29
+date: 2000-12-30 10:17:22
 tags:
     - 习作
     - 拨号上网
