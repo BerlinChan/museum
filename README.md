@@ -2,7 +2,6 @@
 ![Website](https://img.shields.io/website/https/museum.berlinchan.com)
 [![Build Status](https://travis-ci.com/BerlinChan/museum.svg?branch=master)](https://travis-ci.com/BerlinChan/museum)
 [![Twitter URL](https://img.shields.io/twitter/url/https/BerlinChanCom?style=social)](https://twitter.com/BerlinChanCom)
-[![Build Status](https://travis-ci.com/BerlinChan/museum.svg?branch=master)](https://travis-ci.com/BerlinChan/museum)
 
 [https://museum.berlinchan.com](https://museum.berlinchan.com)
 
