@@ -6,12 +6,11 @@ menu:
 
 grid: 2 # change index columns /line
 gravatar: berlinchancom@gmail.com #img gravatar in post
-author: 陈柏林 #name author in post (default)
 excerpt_link: 解说 #chnge text in read more in index
 thumbimg : img/default-thumb.svg # default img (thumbail post) if post no image
 
 ## more need change
-disqus_shortname: old-site-museum # goyangin
+disqus_shortname: old-site-museum
 google_analytics: UA-43244265-4
 
 # if u want add more profile media social (icon same as Fontawesome)
@@ -20,9 +19,9 @@ social:
   Github: https://github.com/BerlinChan
   Twitter: https://twitter.com/BerlinChanCom
   Facebook: https://facebook.com/berlinchancom
-#  Google-plus: https://plus.google.com/104751165505597913805
   email: berlinchancom@gmail.com
-  #Instagram: https://www.instagram.com/you/
+  # Google-plus: https://plus.google.com/104751165505597913805
+  # Instagram: https://www.instagram.com/you/
 
 # Code Highlight theme
 # Available value:
