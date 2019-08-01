@@ -1,6 +1,6 @@
 # 旧站博物馆
 ![Website](https://img.shields.io/website/https/museum.berlinchan.com)
-[![Twitter URL](https://img.shields.io/twitter/url/https/BerlinChanCom?style=social)](https://twitter.com/BerlinChanCom)[![Netlify Status](https://api.netlify.com/api/v1/badges/71e541b4-f92f-4d81-a034-7e153d6c9e61/deploy-status)](https://app.netlify.com/sites/old-site-museum/deploys)
+[![Twitter URL](https://img.shields.io/twitter/url/https/BerlinChanCom?style=social)](https://twitter.com/BerlinChanCom)
 
 [https://museum.berlinchan.com](https://museum.berlinchan.com)
 
