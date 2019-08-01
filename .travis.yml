@@ -1,3 +1,5 @@
+# TravisCI Deploy Docs: https://docs.travis-ci.com/user/deployment/pages/
+
 language: node_js # 设置语言
 
 node_js: stable # 设置相应版本
