@@ -31,7 +31,7 @@
 8. [相册 v3 - 纯Flash习作](https://museum.berlinchan.com/site/08-gallery-v3/)
 
 ## 需要你的帮助
-一边整理[文曲星旧资料](https://museum.berlinchan.com/2004/03/07/star-land-v3/)，一边从尘封的记忆中搜寻熟悉的名字，Lee、郝新利、电脑蛙蛙，等高手还有兄弟网站，还有很多失落的字节不在我的备份中，若手上还有好的资料或者链接请提 issue。
+一边整理[文曲星旧资料](https://museum.berlinchan.com/2003/12/08/star-land-v3/)，一边从尘封的记忆中搜寻熟悉的名字，Lee、郝新利、电脑蛙蛙，等高手还有兄弟网站，还有很多失落的字节不在我的备份中，若手上还有好的资料或者链接请提 issue。
 
 ## Development
 ```cmd
