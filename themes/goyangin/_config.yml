@@ -3,6 +3,7 @@
 menu:
   Home: /
   Archive: /archives
+  About: /about
 
 grid: 2 # change index columns /line
 gravatar: berlinchancom@gmail.com #img gravatar in post
