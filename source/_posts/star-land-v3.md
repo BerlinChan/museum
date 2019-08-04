@@ -15,13 +15,13 @@ tags:
 约2004年3月
 
 ## 回顾
-这版星大陆终于有实质内容了，包含精心收集整理的 PC1000a 程序与游戏（[站内可下载](https://museum.berlinchan.com/site/04-starland-v3/wqx/gvbtool/gvbtool.htm)），当年在星迷圈还有几个人知道。这版的界面是模仿一个免费资源网设计的。那时个人站长热，也催生了一堆免费网页空间服务商和免费资源推荐的网站。这版星大陆，当时存放在网易126的免费空间上，也是首个正式部署上线的网站。
+这版星大陆终于有实质内容了，包含精心收集整理的 PC1000a 程序与游戏（[站内可下载](/site/04-starland-v3/wqx/gvbtool/gvbtool.htm)），当年在星迷圈还有几个人知道。这版的界面是模仿一个免费资源网设计的。那时个人站长热，也催生了一堆免费网页空间服务商和免费资源推荐的网站。这版星大陆，当时存放在网易126的免费空间上，也是首个正式部署上线的网站。
 
 发布后不久，有天在常逛的文曲星论坛上看到有帖子提到星大陆网站链接，有一种更强烈的归属与荣誉感，感觉自己是经历和建设这个社区的一份子，是一种难忘的愉悦。
 
-一边整理，一边从尘封的记忆中搜寻熟悉的名字：Lee、郝新利、电脑蛙蛙等高手，还有兄弟网站。郝新利曾在论坛发过一系列讲解他制作的[GVBasic游戏“精灵岛”](https://museum.berlinchan.com/site/04-starland-v3/wqx/gvbgame/gvbgame.htm)的文章，我将他们都打印出来。用有趣的游戏制作内容，讲解设计与编程，反复阅读收获良多。
+一边整理，一边从尘封的记忆中搜寻熟悉的名字：Lee、郝新利、电脑蛙蛙等高手，还有兄弟网站。郝新利曾在论坛发过一系列讲解他制作的[GVBasic游戏“精灵岛”](/site/04-starland-v3/wqx/gvbgame/gvbgame.htm)的文章，我将他们都打印出来。用有趣的游戏制作内容，讲解设计与编程，反复阅读收获良多。
 
-[《动物园历险记》](https://museum.berlinchan.com/site/04-starland-v3/wqx/gvbgame/soft/zoo-formal.htm)这个游戏我起码玩通3遍，[《风斗-人与自然》](https://museum.berlinchan.com/site/04-starland-v3/wqx/gvbgame/soft/winda.htm)[《欢乐潜水艇》](https://museum.berlinchan.com/site/04-starland-v3/wqx/gvbgame/soft/subp.htm)是上课时开小差最佳伙伴。在简陋的平台上开发运行如此精美的游戏，让我至今仍觉惊艳。GVBasic游戏除了玩之外，最大的乐趣就是可以随时打开代码来修改，我是这样爱上代码的。
+[《动物园历险记》](/site/04-starland-v3/wqx/gvbgame/soft/zoo-formal.htm)这个游戏我起码玩通3遍，[《风斗-人与自然》](/site/04-starland-v3/wqx/gvbgame/soft/winda.htm)[《欢乐潜水艇》](/site/04-starland-v3/wqx/gvbgame/soft/subp.htm)是上课时开小差最佳伙伴。在简陋的平台上开发运行如此精美的游戏，让我至今仍觉惊艳。GVBasic游戏除了玩之外，最大的乐趣就是可以随时打开代码来修改，我是这样爱上代码的。
 
 ## 反思
 www.wqxnet.com 和 www.wqxsky.net 是我曾最爱上的两个论坛，在 BBS 成为各领域爱好者、专家聚集的平台初期，一片欣欣向荣的景象。想要钻研某个领域，泡论坛是最好的方式。从“河蟹”“实名制”这类词汇逐渐更多被提及后，这些交流平台的自由空间一直在缩小。
