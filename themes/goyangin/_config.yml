@@ -3,7 +3,7 @@
 menu:
   Home: /
   Archive: /archives
-  About: /about
+  Info: /about
 
 grid: 2 # change index columns /line
 gravatar: berlinchancom@gmail.com #img gravatar in post
@@ -11,7 +11,7 @@ excerpt_link: 解说 #chnge text in read more in index
 thumbimg : img/default-thumb.svg # default img (thumbail post) if post no image
 
 ## more need change
-disqus_shortname: old-site-museum
+disqus_shortname: berlinchan
 google_analytics: UA-43244265-4
 
 # if u want add more profile media social (icon same as Fontawesome)
