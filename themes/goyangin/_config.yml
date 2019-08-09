@@ -11,7 +11,7 @@ excerpt_link: 解说 #chnge text in read more in index
 thumbimg : img/default-thumb.svg # default img (thumbail post) if post no image
 
 ## more need change
-disqus_shortname: berlinchan
+disqus_shortname: old-site-museum
 google_analytics: UA-43244265-4
 
 # if u want add more profile media social (icon same as Fontawesome)
