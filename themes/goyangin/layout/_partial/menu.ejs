@@ -9,14 +9,15 @@
     <div id="navMenuExample" class="navbar-menu">
         <div class="navbar-start">
             <% Object.keys(theme.menu).forEach(function(key) { %>
-                <a class="navbar-item has-text-info" href="<%= theme.menu[key] %>">
+                <a class="navbar-item <%= is_current(theme.menu[key]) ? 'is-active' : '' %>"
+                   href="<%= theme.menu[key] %>">
                     <span class="icon is-info"><i class="fa fa-<%= key.toLowerCase() %>"> </i></span>
                     &nbsp;<%= __(key) %> </a>
             <% }) %>
 
             <% if (site.tags.length){ %>
                 <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-item is-hovered is-active">
+                    <a class="navbar-item">
                         <span class="icon"><i class="fa fa-tags"></i></span>&nbsp;<%= __('Tags') %>
                     </a>
                     <div class="navbar-dropdown ">
@@ -24,6 +25,10 @@
                     </div>
                 </div>
             <% } %>
+
+                <a class="navbar-item" href="https://www.berlinchan.com" target="_blank" rel="noopener">
+                    <span class="icon is-info"><i class="fa fa-arrow-right"></i></span>
+                    &nbsp;陈柏林的Blog </a>
         </div>
     </div>
 </nav>

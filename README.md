@@ -36,8 +36,9 @@
 ## Development
 ```cmd
 $ git clone https://github.com/BerlinChan/museum.git
+$ cd museum
 $ npm i
-$ hexo server
+$ hexo run dev
 ```
 Dev server at [http://localhost:4000](http://localhost:4000)
 
