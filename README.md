@@ -43,5 +43,4 @@ $ hexo run dev
 Dev server at [http://localhost:4000](http://localhost:4000)
 
 ## License
-
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
