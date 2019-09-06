@@ -1,18 +1,13 @@
 ---
 title: 个人主页 - 习作
 website: /site/01-study/index.html
+screenShot: ./first-try.jpg
 date: 2000-12-30 10:17:22
 tags:
     - 习作
     - 拨号上网
     - 网页三剑客
 ---
-
-[![页面截图](./first-try/first-try.jpg)](/site/01-study/index.html)
-[个人主页习作>>](/site/01-study/index.html)
-
-## 年代
-约2000年
 
 ## 回顾
 一边看[网页三剑客](https://baike.baidu.com/item/%E7%BD%91%E9%A1%B5%E4%B8%89%E5%89%91%E5%AE%A2)的教程，一边动手的练习，连网页都算不上。教程是从电脑城买回来的光盘。

@@ -12,14 +12,17 @@
                     </a>
                 <% } %>
             </p>
-            <span class="card-header-icon"><%= item.date.format(config.date_format) %></span>
+            <span class="card-header-icon">
+                <i class="fa fa-calendar"></i>&nbsp;
+                <%= item.date.format(config.epoch_format) %>
+            </span>
         </header>
 
         <div class="card-image">
             <figure class="image is-fullwidth">
                 <a href="<%- config.root %><%- item.path %>">
-                    <% if (item.content.match(/<img\b.*?(?:>|\/>)/i)){ %>
-                        <img src="<%- strip_html(item.content.match(/<img\b.*?(?:>|\/>)/i)[0].match(/\bsrc\b\s*=\s*['"]?([^'"]*)['"]?/i)[1]) %>"
+                    <% if (item.screenShot){ %>
+                        <img src="<%- item.path %><%- item.screenShot %>"
                              alt="Image">
                     <% }else{ %>
                         <img src="<%= theme.thumbimg %>" alt="Image">

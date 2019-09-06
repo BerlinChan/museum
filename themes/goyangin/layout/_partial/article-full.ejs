@@ -16,9 +16,7 @@
                         </h1>
                         <p class="subtitle is-6">
                             <span class="icon is-small"><i class="fa fa-calendar"></i></span>
-                            <%= item.date.format(config.date_format) %>&nbsp; &nbsp; &nbsp; &nbsp;
-                            <span class="icon is-small"><i class="fa fa-user"></i></span>
-                            <%- item.author ? item.author : config.author %>
+                            时期：<%= item.date.format(config.epoch_format) %>
                         </p>
                     </div>
                 </div>
@@ -27,14 +25,26 @@
                 <%- partial('article-tags', { item: item }) %>
             </div>
         </div>
+        <hr/>
 
+        <% if (item.screenShot) { %>
+            <h2 class="title is-2">旧站截图</h2>
+            <div>
+                <img src="<%= item.screenShot %>" alt="screenShot">
+            </div>
+        <% } %>
+        <% if (item.website) { %>
+            <div>
+                <a class="button is-medium" href="<%= item.website %>">旧站存档</a>
+            </div>
+        <% } %>
+
+        <!-- Content -->
         <div class="content">
-            <hr/>
-            <!-- Content -->
             <%- item.content %>
-            <hr/>
         </div>
 
+        <hr/>
         <div class="columns is-mobile">
             <div class="column" style="white-space: nowrap;">
                 <p class="title is-4"><span class="icon is-medium"><i

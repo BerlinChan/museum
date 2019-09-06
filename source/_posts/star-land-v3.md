@@ -1,18 +1,13 @@
 ---
 title: 星大陆 v3.0 - 文曲星主题站
 website: /site/04-starland-v3/index.html
+screenShot: ./star-land-v3.jpg
 date: 2003-12-08 02:09:00
 tags:
     - 文曲星
     - 论坛
     - 怀旧
 ---
-
-[![页面截图](./star-land-v3/star-land-v3.jpg)](/site/04-starland-v3/index.html)
-[星大陆 v3.0 >>](/site/04-starland-v3/index.html)
-
-## 年代
-约2004年3月
 
 ## 回顾
 这版星大陆终于有实质内容了，包含精心收集整理的 PC1000a 程序与游戏（[站内可下载](/site/04-starland-v3/wqx/gvbtool/gvbtool.htm)），当年在星迷圈还有几个人知道。这版的界面是模仿一个免费资源网设计的。那时个人站长热，也催生了一堆免费网页空间服务商和免费资源推荐的网站。这版星大陆，当时存放在网易126的免费空间上，也是首个正式部署上线的网站。

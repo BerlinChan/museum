@@ -1,17 +1,12 @@
 ---
 title: 卓别林之页 - 习作
 website: /site/02-study-Chaplin/index.html
+screenShot: ./web21-chaplin.jpg
 date: 2002-05-12 09:04:36
 tags:
     - 卓别林
     - 抠图
 ---
-
-[![页面截图](./chaplin-page/web21-chaplin.jpg)](/site/02-study-Chaplin/index.html)
-[卓别林之页>>](/site/02-study-Chaplin/index.html)
-
-## 年代
-约2002年
 
 ## 回顾
 也是一个跟着教程练手的习作页面，主题来源是爸爸从老板那里借来的卓别林系列影片。

@@ -1,6 +1,7 @@
 ---
 title: 另类网 - 高中参赛作品
 website: /site/05-offbeat/index.html
+screenShot: ./offbeat.jpg
 date: 2003-11-14 21:51:56
 tags:
     - 参赛作品
@@ -8,12 +9,6 @@ tags:
     - 摄影
     - 审查
 ---
-
-[![页面截图](./offbeat/offbeat.jpg)](/site/05-offbeat/index.html)
-[另类网 >>](/site/05-offbeat/index.html)
-
-## 年代
-约2007年2月
 
 ## 回顾
 做此站是为参加市高中的一个什么第四届计算机作品比赛，当时获了三等奖。

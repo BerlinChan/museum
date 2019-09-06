@@ -1,6 +1,7 @@
 ---
 title: 相册 v1 - Javascript习作
 website: /site/06-gallery-v1/website/index.html
+screenShot: ./gallery-v1.jpg
 date: 2006-09-20 19:58:56
 tags:
     - Javascript
@@ -8,12 +9,6 @@ tags:
     - 摄影
     - 相机
 ---
-
-[![页面截图](./gallery-v1/gallery-v1.jpg)](/site/06-gallery-v1/website/index.html)
-[相册 v1 >>](/site/06-gallery-v1/website/index.html)
-
-## 年代
-约2006年9月
 
 ## 关于网站技术
 此项目实现了网络相册的主要功能，但页面都未美化，仅由全局菜单、侧边菜单与图片主体三部分构成。参考动态服务器技术网站的设计，比如论坛程序、新闻管理系统等，将程序与内容数据分开。当时掌握动态页面技术对我是不可能的，况且网上可用的免费网页空间几乎只有静态空间。

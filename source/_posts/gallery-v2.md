@@ -1,18 +1,13 @@
 ---
 title: 相册 v2 - Flash习作
 website: /site/07-gallery-v2/index.html
+screenShot: ./gallery-v2.jpg
 date: 2010-11-23 22:01:54
 tags:
     - Flash
     - 习作
     - 摄影
 ---
-
-[![页面截图](./gallery-v2/gallery-v2.jpg)](/site/07-gallery-v2/index.html)
-[相册 v2 >>](/site/07-gallery-v2/index.html)
-
-## 年代
-约2010年11月
 
 ## 回顾
 那时候流行过一类网站叫“纯Flash站”，具有华丽的界面、花哨的动画还有音效，并且在 56K 猫条件下，都有长长的加载进度条——文件很大。

@@ -1,16 +1,11 @@
 ---
 title: 星大陆 v2.0 - 文曲星主题站
 website: /site/03-starland-v2/index.html
+screenShot: ./star-land-v2.jpg
 date: 2003-08-16 13:22:00
 tags:
     - 文曲星
 ---
-
-[![页面截图](./star-land-v2/star-land-v2.jpg)](/site/03-starland-v2/index.html)
-[星大陆 v2.0 >>](/site/03-starland-v2/index.html)
-
-## 年代
-约2004年1月
 
 ## 回顾
 “星大陆”的几个版本，是我学以致用的集大成作品。之前还有个1.0版本，在一次重装系统中数据丢失了。这次教训让我深刻体会到数据的宝贵，虽然没什么高价值数据，但对自己而言还是有意义的。本版2.0还没完成，就又建立[3.0项目](/2003/12/08/star-land-v3/)了，所以这版页面没有什么实质内容。
