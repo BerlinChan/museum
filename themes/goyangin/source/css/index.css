@@ -33,10 +33,6 @@
 /* Theme: Solarized - Github
  * More theme here: http://softwaremaniacs.org/media/soft/highlight/test.html
  */
-.card-content > .content p {
-    text-indent: 2rem;
-}
-
 .content img {
     -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.2);
@@ -185,4 +181,13 @@ pre .coffeescript .title {
 pre .keyword,
 pre .javascript .function {
     color: #c9c;
+}
+
+.archived-site-screen {
+    text-align: center;
+}
+
+.archived-site-nav {
+    text-align: center;
+    margin: 12px auto;
 }

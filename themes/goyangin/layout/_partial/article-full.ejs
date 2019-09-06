@@ -29,13 +29,13 @@
 
         <% if (item.screenShot) { %>
             <h2 class="title is-2">旧站截图</h2>
-            <div>
+            <div class="archived-site-screen">
                 <img src="<%= item.screenShot %>" alt="screenShot">
             </div>
         <% } %>
         <% if (item.website) { %>
-            <div>
-                <a class="button is-medium" href="<%= item.website %>">旧站存档</a>
+            <div class="archived-site-nav">
+                <a class="button is-medium" href="<%= item.website %>">查看旧站</a>
             </div>
         <% } %>
 
@@ -63,15 +63,13 @@
                                             class="fa fa-facebook"></i></span></a>
                             <a class="button is-info is-outlined" id="tw"><span class="icon"><i
                                             class="fa fa-twitter"></i></span></a>
-                            <a class="button is-info is-outlined" id="gp"><span class="icon"><i
-                                            class="fa fa-google-plus"></i></span></a>
-                            <a class="button is-info is-outlined" id="pt"><span class="icon"><i
-                                            class="fa fa-pinterest"></i></span></a>
                         </div>
                     </div>
 
                 </div>
-                <p class="title is-4"><span class="icon is-medium"><i class="fa fa-share"></i></span><%= __('Share') %>
+                <p class="title is-4">
+                    <span class="icon is-medium"><i class="fa fa-share"></i></span>
+                    <%= __('Share') %>
                 </p>
             </div>
         </div>
