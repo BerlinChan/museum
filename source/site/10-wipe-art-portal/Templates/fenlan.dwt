@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+		<iframe src="../flash/top/topflash.html" frameborder="0" scrolling="No" height="188" width="800" align="middle"></iframe>
+	</td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="main" -->
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+		<iframe src="../pages/bottom.html" frameborder="0" scrolling="No" width="800" align="middle"></iframe>
+	</td>
+  </tr>
+</table>
+
+</body>
+</html>
