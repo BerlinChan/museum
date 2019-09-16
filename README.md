@@ -45,8 +45,8 @@ $ hexo new new-post
 ```
 
 ## TODO
+- [ ] 写 2007-03-15-wipe-art
 - [ ] 写关于页面
-- [ ] 写校图书馆留言板项目回顾
 
 ## License
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
