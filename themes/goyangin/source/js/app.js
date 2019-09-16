@@ -18,7 +18,6 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 
-
 var value = document.getElementById("cur").value;
 if (value !== ""){
     var u  = document.getElementById('share');
@@ -34,6 +33,4 @@ if (value !== ""){
     }
     document.getElementById('fb').setAttribute("href", "https://www.facebook.com/sharer.php?u="+value);
     document.getElementById('tw').setAttribute("href", "https://twitter.com/intent/tweet?url="+value);
-    document.getElementById('gp').setAttribute("href", "https://plus.google.com/share?url="+value);
-    document.getElementById('pt').setAttribute("href", "http://pinterest.com/pin/create/button/?url="+value);
 }
