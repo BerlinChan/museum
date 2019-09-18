@@ -45,8 +45,9 @@ $ hexo new new-post
 ```
 
 ## TODO
+- [ ] write hospital-job
+- [ ] remove comeplay unused page
 - [ ] write about page
-- [ ] add hospital site
 - [ ] use bulma.css for menu active link, reduce app.js
 
 ## License
