@@ -83,17 +83,25 @@
                 <article class="media">
                     <figure class="media-left">
                         <p class="image is-64x64">
-                        <span class="fa-stack fa-2x"><i class="fa fa-calendar-o fa-stack-2x"></i>
-                            <strong class="fa-stack-1x"
-                                    style="margin-top: .3em; "><%= post.date.format("DD") %></strong>
+                        <span class="fa-stack fa-2x">
+                            <i class="fa fa-calendar-o fa-stack-2x"></i>
+                            <span class="more-posts-date" style="margin-top: 1.5em;">
+                                <%= post.date.format("YYYY") %>
+                            </span>
+                            <span class="more-posts-date">
+                                <%= post.date.format("MM") %>
+                            </span>
                         </span>
                         </p>
                     </figure>
                     <div class="media-content">
                         <div class="content">
-                            <p><strong> <a href="<%- url_for(post.path) %>"><span
-                                                class="has-text-info"> <%= post.title %></span></a></strong>
-                                <small><%= post.date.format("dddd, hA") %> </small>
+                            <p>
+                                <strong>
+                                    <a href="<%- url_for(post.path) %>">
+                                        <span class="has-text-info"> <%= post.title %></span>
+                                    </a>
+                                </strong>
                                 <br>
                                 <%- truncate(strip_html(post.content), { length: 80 }) %>
                             </p>

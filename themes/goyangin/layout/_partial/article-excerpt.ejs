@@ -20,13 +20,8 @@
 
         <div class="card-image">
             <figure class="image is-fullwidth">
-                <a href="<%- config.root %><%- item.path %>">
-                    <% if (item.screenShot){ %>
-                        <img src="/<%- item.path %><%- item.screenShot %>"
-                             alt="Image">
-                    <% }else{ %>
-                        <img src="<%= theme.thumbimg %>" alt="Image">
-                    <% } %>
+                <a href="<%- config.root %><%- item.path %>" class="excerpt-card-img"
+                    style="background-image: url('<%- item.screenShot?item.path+item.screenShot:theme.thumbimg %>')">
                 </a>
             </figure>
         </div>

@@ -191,3 +191,17 @@ pre .javascript .function {
     text-align: center;
     margin: 12px auto;
 }
+
+.excerpt-card-img {
+    display: block;
+    width: 100%;
+    padding-top: 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.more-posts-date{
+    display: block;
+    font-size: 1rem;
+    line-height: 1;
+    text-align: center;
+}
