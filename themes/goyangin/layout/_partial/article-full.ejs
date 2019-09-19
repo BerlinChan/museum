@@ -55,22 +55,21 @@
 
             <!--share-->
             <div class="column has-text-right">
-                <p class="title is-4">
-                    <span class="icon is-medium"><i class="fa fa-share"></i></span>
-                    <%= __('Share') %>
-                    <a class="button is-info is-outlined"
-                       onclick="handleShare('facebook','<%- item.permalink %>')">
-                        <span class="icon"><i class="fa fa-facebook"></i></span>
-                    </a>
-                    <a class="button is-info is-outlined"
-                       onclick="handleShare('twitter','<%- item.permalink %>')">
-                        <span class="icon"><i class="fa fa-twitter"></i></span>
-                    </a>
-                    <a class="button is-info is-outlined"
-                       onclick="handleShare('linkedIn','<%- item.permalink %>')">
-                        <span class="icon"><i class="fa fa-linkedin"></i></span>
-                    </a>
-                </p>
+                <span class="icon is-medium" title="<%= __('Share') %>">
+                    <i class="fa fa-share-alt"></i>
+                </span>
+                <a class="button is-info is-outlined"
+                   onclick="handleShare('facebook','<%- item.permalink %>')">
+                    <span class="icon"><i class="fa fa-facebook"></i></span>
+                </a>
+                <a class="button is-info is-outlined"
+                   onclick="handleShare('twitter','<%- item.permalink %>')">
+                    <span class="icon"><i class="fa fa-twitter"></i></span>
+                </a>
+                <a class="button is-info is-outlined"
+                   onclick="handleShare('linkedIn','<%- item.permalink %>')">
+                    <span class="icon"><i class="fa fa-linkedin"></i></span>
+                </a>
             </div>
         </div>
 
