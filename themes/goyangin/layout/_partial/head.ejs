@@ -4,9 +4,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="<%= config.description %>">
+    <%- open_graph({
+        title: (page.title ? page.title + ' | ' : '') + config.title,
+        image: page.screenShot,
+        twitter_card: 'summary_large_image',
+        twitter_id: '@BerlinChanCom',
+        twitter_site: '@BerlinChanCom'
+    }) %>
     <meta name="author" content="<%= config.author %>">
-    <title><% if (page.title){ %><%= page.title %> | <% } %><%= config.title %></title>
+    <title>
+        <% if (page.title){ %>
+            <%= page.title %> |
+        <% } %>
+        <%= config.title %></title>
     <!-- framework CSS -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css" rel="stylesheet">
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
