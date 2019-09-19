@@ -29,6 +29,8 @@
 6. [相册 v1 - Javascript习作](https://museum.berlinchan.com/site/06-gallery-v1/website/)
 7. [相册 v2 - 纯Flash习作](https://museum.berlinchan.com/site/07-gallery-v2/)
 8. [相册 v3 - 纯Flash习作](https://museum.berlinchan.com/site/08-gallery-v3/)
+9. [某体育文化公司官网](https://museum.berlinchan.com/site/09-comeplay/)
+10. [武汉某妇科医院门户改版设计](https://museum.berlinchan.com/site/10-wipe-art-portal/)
 
 ## Development
 ```cmd
@@ -46,7 +48,6 @@ $ hexo new new-post
 
 ## TODO
 - [ ] write about page
-- [ ] use bulma.css for menu active link, reduce app.js
 
 ## License
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
