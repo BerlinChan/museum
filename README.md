@@ -46,9 +46,8 @@ $ hexo new new-post
 ```
 
 ## TODO
-- [] remove wipe-art-portal flash link
-- [] fix comeplay flash link
-- [] decode comeplay text
+- [ ] fix comeplay flash link
+- [ ] decode comeplay text
 
 ## License
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
