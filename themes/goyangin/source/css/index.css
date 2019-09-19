@@ -29,6 +29,58 @@
     text-decoration: none;
 }
 
+/*github corner begin */
+
+.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+    0%, 100% {
+        transform: rotate(0)
+    }
+    20%, 60% {
+        transform: rotate(-25deg)
+    }
+    40%, 80% {
+        transform: rotate(10deg)
+    }
+}
+
+@media (max-width: 500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
+}
+/*github corner end */
+
+.archived-site-screen {
+    text-align: center;
+}
+
+.archived-site-nav {
+    text-align: center;
+    margin: 12px auto;
+}
+
+.excerpt-card-img {
+    display: block;
+    width: 100%;
+    padding-top: 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.more-posts-date {
+    display: block;
+    font-size: 1rem;
+    line-height: 1;
+    text-align: center;
+}
 
 /* Theme: Solarized - Github
  * More theme here: http://softwaremaniacs.org/media/soft/highlight/test.html
@@ -181,27 +233,4 @@ pre .coffeescript .title {
 pre .keyword,
 pre .javascript .function {
     color: #c9c;
-}
-
-.archived-site-screen {
-    text-align: center;
-}
-
-.archived-site-nav {
-    text-align: center;
-    margin: 12px auto;
-}
-
-.excerpt-card-img {
-    display: block;
-    width: 100%;
-    padding-top: 60%;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.more-posts-date{
-    display: block;
-    font-size: 1rem;
-    line-height: 1;
-    text-align: center;
 }

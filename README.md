@@ -48,8 +48,6 @@ $ hexo new new-post
 - [ ] remove comeplay unused page
 - [ ] comeplay decode
 - [ ] add Open Graph and Twitter Card meta
-- [ ] add LinkedIn share
-- [ ] add LinkedIn SNS
 - [ ] write about page
 - [ ] use bulma.css for menu active link, reduce app.js
 

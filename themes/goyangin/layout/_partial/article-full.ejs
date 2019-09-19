@@ -1,6 +1,12 @@
+<%- open_graph({
+    image: item.screenShot,
+    twitter_card: 'summary_large_image',
+    twitter_id: '@BerlinChanCom',
+    twitter_site: '@BerlinChanCom'
+}) %>
 <div class="card">
-    <!-- Title -->
     <div class="card-content">
+        <!-- Title -->
         <div class="level">
             <div class="level-left">
                 <div class="media">
@@ -11,7 +17,7 @@
                     </div>
                     <div class="media-content">
                         <h1 class="title is-4">
-                            <a href="<%- config.root %><%- item.path %>"
+                            <a href="<%- url_for(item.path) %>"
                                class="has-text-info"> <%- item.title || item.link %></a>
                         </h1>
                         <p class="subtitle is-6">
@@ -47,29 +53,29 @@
         <hr/>
         <div class="columns is-mobile">
             <div class="column" style="white-space: nowrap;">
-                <p class="title is-4"><span class="icon is-medium"><i
-                                class="fa fa-file-text-o"></i></span><%= __('Recents Post') %> </p>
+                <p class="title is-4">
+                    <span class="icon is-medium"><i class="fa fa-file-text-o"></i></span>
+                    <%= __('Recents Post') %>
+                </p>
             </div>
-            <div class="column has-text-right" id="share">
 
-
-                <div class="box" id="shared" style="display:none; position:absolute; z-index:999; right:100px;">
-                    <div class="field has-addons">
-                        <div class="control is-expanded  is-hidden-touch">
-                            <input class="input is-info" type="text" value="<%- item.permalink %>" id="cur">
-                        </div>
-                        <div class="control">&nbsp;
-                            <a class="button is-info is-outlined" id="fb"><span class="icon"><i
-                                            class="fa fa-facebook"></i></span></a>
-                            <a class="button is-info is-outlined" id="tw"><span class="icon"><i
-                                            class="fa fa-twitter"></i></span></a>
-                        </div>
-                    </div>
-
-                </div>
+            <!--share-->
+            <div class="column has-text-right">
                 <p class="title is-4">
                     <span class="icon is-medium"><i class="fa fa-share"></i></span>
                     <%= __('Share') %>
+                    <a class="button is-info is-outlined"
+                       onclick="handleShare('facebook','<%- item.permalink %>')">
+                        <span class="icon"><i class="fa fa-facebook"></i></span>
+                    </a>
+                    <a class="button is-info is-outlined"
+                       onclick="handleShare('twitter','<%- item.permalink %>')">
+                        <span class="icon"><i class="fa fa-twitter"></i></span>
+                    </a>
+                    <a class="button is-info is-outlined"
+                       onclick="handleShare('linkedIn','<%- item.permalink %>')">
+                        <span class="icon"><i class="fa fa-linkedin"></i></span>
+                    </a>
                 </p>
             </div>
         </div>
