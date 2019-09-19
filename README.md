@@ -45,8 +45,6 @@ $ hexo new new-post
 ```
 
 ## TODO
-- [ ] remove comeplay unused page
-- [ ] comeplay decode
 - [ ] write about page
 - [ ] use bulma.css for menu active link, reduce app.js
 
