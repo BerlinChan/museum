@@ -3,7 +3,12 @@
         <%- partial('_partial/menu') %>
     </div>
     <div class="hero-body has-text-centered is-paddingless">
-        <a href="<%= theme.menu.Home %>"><h1 class="title"> <%= config.title %> </h1></a>
+        <a href="<%= theme.menu.Home %>">
+            <h1 class="title">
+                <img src="<%- config.root %>favicon-32x32.png" style="vertical-align: bottom">
+                <%= config.title %>
+            </h1>
+        </a>
         <h2 class="subtitle">
             <% if (config.subtitle){ %>
                 <%= config.subtitle %>
