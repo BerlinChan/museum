@@ -47,7 +47,6 @@ $ hexo new new-post
 
 ## TODO
 - [ ] add archived site tips
-- [ ] fix comeplay flash link
 
 ## License
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
