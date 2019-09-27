@@ -1,0 +1,30 @@
+{
+  "name": "museum",
+  "version": "0.0.1",
+  "description": "旧站博物馆，陈柏林的个人项目回顾",
+  "homepage": "https://museum.berlinchan.com",
+  "repository": "https://github.com/BerlinChan/museum",
+  "private": false,
+  "license": "CC-BY-4.0",
+  "author": "Berlin Chan <berlinchancom@gmail.com>",
+  "hexo": {
+    "version": "3.9.0"
+  },
+  "scripts": {
+    "dev": "hexo server",
+    "clean": "hexo clean",
+    "build": "hexo clean && hexo g",
+    "deploy": "hexo clean && hexo -g d"
+  },
+  "dependencies": {
+    "hexo": "^3.9.0",
+    "hexo-asset-image": "^1.0.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-index": "^1.0.0",
+    "hexo-generator-sitemap": "^1.2.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-ejs": "^1.0.0",
+    "hexo-renderer-marked": "^2.0.0",
+    "hexo-server": "^1.0.0"
+  }
+}

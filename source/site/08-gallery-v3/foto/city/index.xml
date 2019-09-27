@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index path="foto/city/">
+    <image name="城市圈-宜昌" big="2011126145123ZWP5Z0.jpg" small="2011126145049PMHR8.jpg" description="城市圈-宜昌，2010-6-9"
+           mask="showAll" datetime="2012-1-17&amp;nbsp;14:03">
+        <item/>
+    </image>
+    <image name="重庆奥林匹克体育中心" big="2011101413433P45N14.jpg" small="201110141343460R92GQ.jpg"
+           description="重庆奥林匹克体育中心，2008-8-19" mask="" datetime="2011-10-14&amp;nbsp;13:44">
+        <item/>
+    </image>
+    <image name="重庆奥林匹克体育中心" big="2011101413412890J3SI.jpg" small="20111014134148I7CIYW.jpg"
+           description="重庆奥林匹克体育中心，2008-8-19" mask="showAll" datetime="2011-10-14&amp;nbsp;13:42">
+        <item/>
+    </image>
+    <image name="坝上烟火" big="201188141839F1WRHE.jpg" small="201188141844BWSME6.jpg" description="宜昌葛洲坝" mask=""
+           datetime="2011-10-19&amp;nbsp;12:12">
+        <item/>
+    </image>
+    <image name="霞光" big="2011881419442FR16N.jpg" small="201188141950C3HR8W.jpg" description="宜昌滨江公园" mask=""
+           datetime="2011-10-19&amp;nbsp;12:12">
+        <item/>
+    </image>
+    <image name="工地" big="2010-07-09gongdi.jpg" small="2010-07-09gongdi_s.jpg" description="宜昌清江润城工地" mask=""
+           datetime="2011-10-19&amp;nbsp;12:11">
+        <item/>
+    </image>
+    <image name="滨江公园日落" big="binjiang.jpg" small="bingjiang_s.jpg" description="滨江公园双亭广场，湖北宜昌" mask=""
+           datetime="2011-10-19&amp;nbsp;12:11">
+        <item/>
+    </image>
+</index>

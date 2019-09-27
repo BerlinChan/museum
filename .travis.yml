@@ -1,0 +1,23 @@
+# TravisCI Deploy Docs: https://docs.travis-ci.com/user/deployment/pages/
+
+language: node_js # 设置语言
+
+node_js: stable # 设置相应版本
+
+install:
+  - npm install # 安装hexo及插件
+
+script:
+  - mv -f utils/fix-hexo-asset-image.js node_modules/hexo-asset-image/index.js # 修正 hexo-asset-image bug
+  - hexo clean # 清除
+  - hexo g # 生成
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: false
+  local_dir: public/
+  fqdn: museum.berlinchan.com
+  on:
+    branch: master
