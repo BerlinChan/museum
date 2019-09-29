@@ -27,7 +27,7 @@
 |   2003-11 |   [另类网 - 高中参赛作品](https://museum.berlinchan.com/2003/11/14/offbeat/)   |   [旧站存档](https://museum.berlinchan.com/site/05-offbeat/)  |
 |   2003-12 |   [星大陆 v3.0 - 文曲星主题站](https://museum.berlinchan.com/2003/12/07/star-land-v3/) |   [旧站存档](https://museum.berlinchan.com/site/04-starland-v3/) |
 |   2006-09 |   [相册 v1 - Javascript习作](https://museum.berlinchan.com/2006/09/20/gallery-v1/)    |   [旧站存档](https://museum.berlinchan.com/site/06-gallery-v1/website/)   |
-|   2007-01 |   [武汉体育学院藏龙岛校区图书馆留言板](https://museum.berlinchan.com/2007/01/09/wipe-library-guestbook/)   |   [旧站存档](https://museum.berlinchan.com/site/10-wipe-art-portal/)   |
+|   2007-01 |   [武汉体育学院藏龙岛校区图书馆留言板](https://museum.berlinchan.com/2007/01/09/wipe-library-guestbook/)   |   |
 |   2007-03 |   [武汉体育学院艺术系门户](https://museum.berlinchan.com/2007/03/15/wipe-art-portal/)    |   [旧站存档](https://museum.berlinchan.com/site/10-wipe-art-portal/index.html)  |
 |   2008-11 |   [某体育文化公司官网](https://museum.berlinchan.com/2008/11/18/comeplay/) |   [旧站存档](https://museum.berlinchan.com/site/09-comeplay/)    |
 |   2010-03 |   [武汉某妇科医院门户改版设计](https://museum.berlinchan.com/2010/03/29/hospital-job/) |   |
