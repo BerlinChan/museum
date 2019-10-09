@@ -49,8 +49,7 @@ $ hexo new new-post
 ```
 
 ## TODO
-- [ ] comeplay proofreading & edit description
-- [ ] replace with relate post
+- [ ] replace recent with relate post
 
 ## License
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)
