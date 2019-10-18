@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    margin: 0 auto;
+}
+
+.bottom-copyright {
+    font-size: 14px;
+    color: #000000;
+}

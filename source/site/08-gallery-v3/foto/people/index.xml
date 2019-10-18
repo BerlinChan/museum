@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index path="foto/people/">
+    <image name="陈宜春" big="2011126145913ESSRKT.jpg" small="2011126145948KSAR4M.jpg" description="陈宜春，2011-12-3"
+           mask="showAll" datetime="2011-12-6&amp;nbsp;15:02">
+        <item/>
+    </image>
+    <image name="表演" big="20111116113852OVL2JC.jpg" small="20111116113926G6S2OM.jpg" description="表演，2009-11-14"
+           mask="showAll" datetime="2011-11-16&amp;nbsp;11:41">
+        <item/>
+    </image>
+    <image name="姜奶奶" big="2011101413491115YGRH.jpg" small="201110141349153FTVQZ.jpg" description="姜奶奶，湖北长阳，2010-2-18"
+           mask="showAll" datetime="2011-10-14&amp;nbsp;13:49">
+        <item/>
+    </image>
+    <image name="里外" big="201188142011I14C05.jpg" small="201188142015V016RX.jpg" description="" mask="showAll"
+           datetime="2011-8-8&amp;nbsp;14:20">
+        <item/>
+    </image>
+    <image name="人物" big="201184175345YQZ3WZ.jpg" small="20118417535267EDDN.jpg" description="" mask=""
+           datetime="2011-8-4&amp;nbsp;17:54">
+        <item/>
+    </image>
+    <image name="音乐" big="20118317242GMCRGM.jpg" small="2011831724952DR9S.jpg" description="" mask=""
+           datetime="2011-8-3&amp;nbsp;17:02">
+        <item/>
+    </image>
+    <image name="拉丁" big="2011831749PY0TBW.jpg" small="20118317414GN4VTC.jpg" description="" mask="showAll"
+           datetime="2011-8-3&amp;nbsp;17:05">
+        <item/>
+    </image>
+    <image name="爱情" big="2011728171851M4V82T.jpg" small="2011728171855NZBV3P.jpg" description="" mask=""
+           datetime="2011-7-28&amp;nbsp;17:19">
+        <item/>
+    </image>
+    <image name="表演" big="2011-05-14biaoyan.jpg" small="2011-05-14biaoyan_s.jpg" description="表演" mask=""
+           datetime="2011-7-15&amp;nbsp;15:48">
+        <item/>
+    </image>
+    <image name="img_7731.jpg" big="img_7731.jpg" small="img_7731_s.jpg" description="" mask=""
+           datetime="2011-7-15&amp;nbsp;15:32" n="5">
+        <item/>
+    </image>
+</index>
