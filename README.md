@@ -48,8 +48,5 @@ Dev server at [http://localhost:4000](http://localhost:4000)
 $ hexo new new-post
 ```
 
-## TODO
-- [ ] replace recent with relate post
-
 ## License
 [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/)

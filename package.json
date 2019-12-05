@@ -8,7 +8,7 @@
   "license": "CC-BY-4.0",
   "author": "Berlin Chan <berlinchancom@gmail.com>",
   "hexo": {
-    "version": "3.9.0"
+    "version": "4.0.0"
   },
   "scripts": {
     "dev": "hexo server",
