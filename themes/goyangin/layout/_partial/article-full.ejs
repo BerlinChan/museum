@@ -67,14 +67,19 @@
         </div>
 
         <div class="columns">
-            <div class="column"><p class="title is-4"><%= __('Previous Post') %></p></div>
-            <div class="column has-text-right"><p class="title is-4"><%= __('Next Post') %></p></div>
+            <div class="column">
+                <p class="title is-4"><%= item.prev ? __('Previous Post') : '' %></p>
+            </div>
+            <div class="column has-text-right">
+                <p class="title is-4"><%= item.next ? __('Next Post') : '' %></p>
+            </div>
         </div>
         <div class="columns">
             <div class="column">
-                <article class="media">
-                    <figure class="media-left">
-                        <p class="image is-64x64">
+                <% if(item.prev){ %>
+                    <article class="media">
+                        <figure class="media-left">
+                            <p class="image is-64x64">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-calendar-o fa-stack-2x"></i>
                                 <span class="more-posts-date" style="margin-top: 1.5em;">
@@ -84,27 +89,29 @@
                                     <%= item.prev.date.format("MM") %>
                                 </span>
                             </span>
-                        </p>
-                    </figure>
-                    <div class="media-content">
-                        <div class="content">
-                            <p>
-                                <strong>
-                                    <a href="<%- url_for(item.prev.path) %>">
-                                        <span class="has-text-info"> <%= item.prev.title %></span>
-                                    </a>
-                                </strong>
-                                <br>
-                                <%- truncate(item.prev.description || strip_html(item.prev.content), { length: 80 }) %>
                             </p>
+                        </figure>
+                        <div class="media-content">
+                            <div class="content">
+                                <p>
+                                    <strong>
+                                        <a href="<%- url_for(item.prev.path) %>">
+                                            <span class="has-text-info"> <%= item.prev.title %></span>
+                                        </a>
+                                    </strong>
+                                    <br>
+                                    <%- truncate(item.prev.description || strip_html(item.prev.content), { length: 80 }) %>
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                </article>
+                    </article>
+                <% } %>
             </div>
             <div class="column">
-                <article class="media">
-                    <figure class="media-left">
-                        <p class="image is-64x64">
+                <% if(item.next){ %>
+                    <article class="media">
+                        <figure class="media-left">
+                            <p class="image is-64x64">
                             <span class="fa-stack fa-2x">
                                 <i class="fa fa-calendar-o fa-stack-2x"></i>
                                 <span class="more-posts-date" style="margin-top: 1.5em;">
@@ -114,22 +121,23 @@
                                     <%= item.next.date.format("MM") %>
                                 </span>
                             </span>
-                        </p>
-                    </figure>
-                    <div class="media-content">
-                        <div class="content">
-                            <p>
-                                <strong>
-                                    <a href="<%- url_for(item.next.path) %>">
-                                        <span class="has-text-info"> <%= item.next.title %></span>
-                                    </a>
-                                </strong>
-                                <br>
-                                <%- truncate(item.next.description || strip_html(item.next.content), { length: 80 }) %>
                             </p>
+                        </figure>
+                        <div class="media-content">
+                            <div class="content">
+                                <p>
+                                    <strong>
+                                        <a href="<%- url_for(item.next.path) %>">
+                                            <span class="has-text-info"> <%= item.next.title %></span>
+                                        </a>
+                                    </strong>
+                                    <br>
+                                    <%- truncate(item.next.description || strip_html(item.next.content), { length: 80 }) %>
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                </article>
+                    </article>
+                <% } %>
             </div>
         </div>
 
