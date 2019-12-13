@@ -18,4 +18,4 @@ description: 结合了 1版中树数据结构和 2版中全 Flash站设计，算
 ## 题外话
 站内的照片是那时的摄影作品精选，其中包含大学校报实习、搜房网工作、三峡晚报工作期间，还有旅行照片、纪录片《[自由的家猫](https://www.awildpetcat.com/)》剧照，无论工作所需还是生活中，摄影都成为我的一部分。即使在新闻行业工作经历的打击，也[未让我真正放弃他](https://www.berlinchan.com/2019/09/piano-solo-time-to-say-goodbye)。
 
-三峡晚报期间拍摄了很多宜昌的城市风光和地产项目，准备[将好的图片整理后“开源”](https://www.berlinchan.com/2016/05/image-library-open-source/)，很久前整理过一部分就被搁置。
+三峡晚报期间拍摄了很多宜昌的城市风光和地产项目，我将好的[图片整理后“开源”](https://www.berlinchan.com/2016/05/image-library-open-source/)发布在 Google Photos 上，还有一部分被搁置未发布完。
