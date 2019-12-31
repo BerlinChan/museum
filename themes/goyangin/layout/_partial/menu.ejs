@@ -1,0 +1,34 @@
+<nav class="navbar">
+    <div class="navbar-brand">
+        <div class="navbar-burger burger" style="margin-left: initial;" data-target="navMenuExample">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <div id="navMenuExample" class="navbar-menu">
+        <div class="navbar-start">
+            <% Object.keys(theme.menu).forEach(function(key) { %>
+                <a class="navbar-item <%= is_current(theme.menu[key]) ? 'is-active' : '' %>"
+                   href="<%= theme.menu[key] %>">
+                    <span class="icon is-info"><i class="fa fa-<%= key.toLowerCase() %>"> </i></span>
+                    &nbsp;<%= __(key) %> </a>
+            <% }) %>
+
+            <% if (site.tags.length){ %>
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item">
+                        <span class="icon"><i class="fa fa-tags"></i></span>&nbsp;<%= __('Tags') %>
+                    </a>
+                    <div class="navbar-dropdown ">
+                        <%- list_tags({ separator: '', show_count: false, style: 'a', class: 'navbar-item ' }) %>
+                    </div>
+                </div>
+            <% } %>
+
+                <a class="navbar-item" href="https://www.berlinchan.com" target="_blank" rel="noopener">
+                    <span class="icon is-info"><i class="fa fa-arrow-right"></i></span>
+                    &nbsp;陈柏林的Blog </a>
+        </div>
+    </div>
+</nav>
