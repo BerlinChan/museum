@@ -1,0 +1,105 @@
+@charset "UTF-8";
+body {
+    margin: 0 0 0 0;
+}
+
+/*定位层*/
+#MainMenuLayer {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    text-align: left;
+}
+
+#SubMenuLayer {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    text-align: left;
+    width: 150;
+}
+
+#MainPageFrame {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    height: 470px;
+    width: 550px;
+}
+
+#DebugLayer {
+    color: #999999;
+    font-size: 13px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+/*定义样式*/
+.table_MainMenuLayer {
+    text-align: center;
+}
+
+.table_SubMenuLayer {
+}
+
+
+/*链接样式*/
+A:link {
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+A:visited {
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+A:hover {
+    color: #428EFF;
+    text-decoration: underline;
+}
+
+A.highlight:link {
+    COLOR: red;
+    TEXT-DECORATION: none
+}
+
+A.highlight:visited {
+    COLOR: red;
+    TEXT-DECORATION: none
+}
+
+A.highlight:hover {
+    COLOR: red
+}
+
+A.thisclass:link {
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+A.thisclass:visited {
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+
+A.thisclass:hover {
+    FONT-WEIGHT: bold
+}
+
+A.navlink:link {
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+A.navlink:visited {
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+
+A.navlink:hover {
+    COLOR: #003399;
+    TEXT-DECORATION: none
+}

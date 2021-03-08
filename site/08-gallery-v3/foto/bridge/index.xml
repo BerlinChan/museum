@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index path="foto/bridge/">
+    <image name="垂钓者" big="201188141718T0J5JN.jpg" small="201188141725NPVTG2.jpg" description="大桥下的垂钓者。宜昌夷陵长江，2009-2-12"
+           mask="" datetime="2011-10-13&amp;nbsp;15:44">
+        <item/>
+    </image>
+    <image name="夷陵长江大桥" big="201188141819PUKEPD.jpg" small="201188141823MGNJ5F.jpg"
+           description="夷陵长江大桥，想拍夜景而拍的夜景。没有快门线，相机定在脚架上手按B门2分钟，竟然没有糊。宜昌，2009-2-12" mask=""
+           datetime="2011-9-10&amp;nbsp;12:11">
+        <item/>
+    </image>
+    <image name="傍晚三江桥上" big="2010-08-02banwanqiao.jpg" small="2010-08-02banwanqiao_s.jpg"
+           description="2010-08-02傍晚三江桥上，太阳落到云层后射出万丈光芒。宜昌，2010-8-2" mask="" datetime="2011-9-10&amp;nbsp;12:12">
+        <item/>
+    </image>
+    <image name="三江桥" big="201171515140YIFD8G.jpg" small="2011715151419AUKNE0.jpg"
+           description="宜昌秋天的日落，傍晚能看见火红但不刺眼的太阳落到云层后，产生光芒万丈的景象。宜昌，2010-9-16" mask="showAll"
+           datetime="2011-9-10&amp;nbsp;12:12">
+        <item/>
+    </image>
+    <image name="三江桥" big="2011-06-24sanjiangqiao1.jpg" small="2011-06-24sanjiangqiao1_s.jpg"
+           description="三江桥上的日落，远方吊车处是一座船厂。宜昌，2011-6-24" mask="" datetime="2011-10-13&amp;nbsp;15:45">
+        <item/>
+    </image>
+    <image name="三江桥" big="2011-06-24sanjiangqiao2.jpg" small="2011-06-24sanjiangqiao2_s.jpg"
+           description="日落，宜昌三江桥，2011-6-24" mask="" datetime="2011-10-13&amp;nbsp;15:45">
+        <item/>
+    </image>
+    <image name="夷陵长江大桥" big="2.jpg" small="2_s.jpg" description="夷陵长江大桥。宜昌，2011-5-2" mask=""
+           datetime="2011-9-10&amp;nbsp;12:15" n="6">
+        <item/>
+    </image>
+    <image name="夷陵长江大桥" big="1.jpg" small="1_s.jpg" description="夷陵长江大桥，冬天的三江水边的清亮起来。宜昌，2009-2-12" mask=""
+           datetime="2011-10-13&amp;nbsp;15:46" n="4">
+        <item/>
+    </image>
+</index>

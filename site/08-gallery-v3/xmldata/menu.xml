@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu path="foto/">
+    <item showName="桥" label="bridge" path="foto/bridge/" icon="plus/icon/5.swf" bbs="no"
+          small="images/menu/a77b0c6b100807fd.jpg"/>
+    <item showName="抽象元素" label="abstract" path="foto/abstract/" icon="plus/icon/2.swf" bbs="no"
+          small="images/menu/1adf9cd20fba424f.jpg"/>
+    <item showName="我所见" label="isee" path="foto/isee/" icon="plus/icon/6.swf" bbs="no"
+          small="images/menu/23bce6b0ad8707d0.jpg"/>
+    <item showName="自然" label="natural" path="foto/natural/" icon="plus/icon/2.swf" bbs="no"
+          small="images/menu/b89572f681bac7b4.jpg"/>
+    <item showName="街头" label="street" path="foto/street/" icon="plus/icon/6.swf" bbs="no" small=""/>
+    <item showName="城市" label="city" path="foto/city/" icon="plus/icon/4.swf" bbs="no"
+          small="images/menu/dc4d62407ddded8f.jpg"/>
+    <item showName="建筑&amp;装饰" label="building" path="foto/building/" icon="plus/icon/2.swf" bbs="no"
+          small="images/menu/b1b318e52f671319.jpg"/>
+    <item showName="人物" label="people" path="foto/people/" icon="plus/icon/4.swf" bbs="no"
+          small="images/menu/20e016c8881ff003.jpg"/>
+    <item showName="全景" label="panoram" path="foto/panoram/" icon="" bbs="no" small=""/>
+    <item showName="风光" label="fengguang" path="foto/fengguang/" icon="" bbs="no" small=""/>
+    <item showName="彩云之南" label="yunnan" path="foto/yunnan/" icon="plus/icon/6.swf" bbs="no" small=""/>
+    <item showName="猫儿" label="cat" path="foto/cat/" icon="plus/icon/5.swf" bbs="no"
+          small="images/menu/901b1b7bff341af8.jpg"/>
+    <item showName="合成" label="composite" path="foto/composite/" icon="plus/icon/5.swf" bbs="no" small=""/>
+    <item showName="最新" label="recent" path="foto/recent/" icon="plus/icon/3.swf" bbs="no" small=""/>
+</menu>

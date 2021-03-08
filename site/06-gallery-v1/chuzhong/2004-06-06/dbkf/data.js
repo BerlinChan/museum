@@ -1,0 +1,30 @@
+var subTitle = '初中同学2004-06-06聚会出游之大饱口福'
+
+var imageDB = new Array(
+  'imag021.jpg',
+  '',
+  'imag022.jpg',
+  '',
+  'imag023.jpg',
+  '',
+  'imag024.jpg',
+  '',
+  'imag025.jpg',
+  '',
+  'imag026.jpg',
+  '',
+  'imag027.jpg',
+  '',
+  'imag028.jpg',
+  '',
+  'imag029.jpg',
+  '',
+  'imag030.jpg',
+  '',
+  'imag031.jpg',
+  '',
+  'imag032.jpg',
+  '',
+  'imag033.jpg',
+  ''
+)

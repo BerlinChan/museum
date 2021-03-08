@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index path="foto/isee/">
+    <image name="路过" big="20111116113237TECSA8.jpg" small="20111116113734A85IUM.jpg" description="路过，2009-3-14" mask=""
+           datetime="2011-11-16&amp;nbsp;11:37">
+        <item/>
+    </image>
+    <image name="路过" big="201188141925XWD7O5.jpg" small="2011881419299CJ773.jpg" description="宜昌" mask=""
+           datetime="2011-10-13&amp;nbsp;17:23">
+        <item/>
+    </image>
+    <image name="我所见" big="201185102919QL04EM.jpg" small="2011851029295Q8CWJ.jpg" description="汉口解放公园，看起来老伯在冥想。武汉"
+           mask="" datetime="2011-8-16&amp;nbsp;15:17">
+        <item/>
+    </image>
+    <image name="大学平凡的一天" big="20118317428QARGKJ.jpg" small="20118317432EUDQL3.jpg" description="大学平凡的一天。武汉"
+           mask="showAll" datetime="2011-8-16&amp;nbsp;15:18">
+        <item/>
+    </image>
+    <image name="大学平凡的一天" big="20118317447ND1WA6.jpg" small="20118317452Y4Q368.jpg" description="大学平凡的一天。武汉"
+           mask="showAll" datetime="2011-8-16&amp;nbsp;15:18">
+        <item/>
+    </image>
+    <image name="冲突" big="201172017212BHC55R.jpg" small="20117201721114VOMF1.jpg" description="露天晚会上的冲突。武汉" mask=""
+           datetime="2011-8-16&amp;nbsp;15:19">
+        <item/>
+    </image>
+    <image name="工作中的摄影师" big="20117201724521ZY4Z6.jpg" small="2011720172457CQMBU8.jpg"
+           description="其实这些摄影师在田径场上拍摄跳远项目。武汉" mask="" datetime="2011-8-16&amp;nbsp;15:19">
+        <item/>
+    </image>
+    <image name="放学" big="2011718134842RZHYAV.jpg" small="2011718134915WJS03I.jpg" description="武汉" mask=""
+           datetime="2011-10-13&amp;nbsp;17:23">
+        <item/>
+    </image>
+</index>
