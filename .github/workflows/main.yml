@@ -26,9 +26,6 @@ jobs:
       - name: Install
         run: npm install
         
-      - name: Clean
-        run: hexo clean
-
       - name: Build
         run: hexo g
         
