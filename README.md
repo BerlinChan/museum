@@ -1,6 +1,6 @@
 # 旧站博物馆
 ![Website](https://img.shields.io/website/https/museum.berlinchan.com)
-[![Build Status](https://travis-ci.com/BerlinChan/museum.svg?branch=master)](https://travis-ci.com/BerlinChan/museum)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BerlinChan/museum/CI)
 [![Twitter URL](https://img.shields.io/twitter/url/https/BerlinChanCom?style=social)](https://twitter.com/BerlinChanCom)
 
 [https://museum.berlinchan.com](https://museum.berlinchan.com)
