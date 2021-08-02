@@ -1,0 +1,146 @@
+<div class="card">
+    <div class="card-content">
+        <!-- Title -->
+        <div class="level">
+            <div class="level-left">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="<%- gravatar(theme.gravatar, { s: 48, d: 'mm' }) %>" alt="Image">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <h1 class="title is-4">
+                            <a href="<%- url_for(item.path) %>"
+                               class="has-text-info"> <%- item.title || item.link %></a>
+                        </h1>
+                        <p class="subtitle is-6">
+                            <span class="icon is-small"><i class="fa fa-calendar"></i></span>
+                            时期：<%= item.date.format(config.epoch_format) %>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="level-right">
+                <%- partial('article-tags', { item: item }) %>
+            </div>
+        </div>
+        <hr/>
+
+        <% if (item.screenShot) { %>
+            <h2 class="title is-4">旧站截图</h2>
+            <div class="archived-site-screen">
+                <img src="<%= item.screenShot %>" alt="screenShot">
+            </div>
+        <% } %>
+        <% if (item.website) { %>
+            <div class="archived-site-nav">
+                <a class="button is-medium" href="<%= item.website %>">查看旧站</a>
+            </div>
+        <% } %>
+
+        <!-- Content -->
+        <div class="content">
+            <%- item.content %>
+        </div>
+
+        <hr/>
+        <div class="columns is-mobile">
+            <!--share-->
+            <div class="column">
+                <span class="icon is-medium" title="<%= __('Share') %>">
+                    <i class="fa fa-share-alt"></i>
+                </span>
+                <a class="button is-info is-outlined"
+                   onclick="handleShare('facebook','<%- item.permalink %>')">
+                    <span class="icon"><i class="fa fa-facebook"></i></span>
+                </a>
+                <a class="button is-info is-outlined"
+                   onclick="handleShare('twitter','<%- item.permalink %>')">
+                    <span class="icon"><i class="fa fa-twitter"></i></span>
+                </a>
+                <a class="button is-info is-outlined"
+                   onclick="handleShare('linkedIn','<%- item.permalink %>')">
+                    <span class="icon"><i class="fa fa-linkedin"></i></span>
+                </a>
+            </div>
+        </div>
+
+        <div class="columns">
+            <div class="column">
+                <p class="title is-4"><%= item.prev ? __('Previous Post') : '' %></p>
+            </div>
+            <div class="column has-text-right">
+                <p class="title is-4"><%= item.next ? __('Next Post') : '' %></p>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="column">
+                <% if(item.prev){ %>
+                    <article class="media">
+                        <figure class="media-left">
+                            <p class="image is-64x64">
+                            <span class="fa-stack fa-2x">
+                                <i class="fa fa-calendar-o fa-stack-2x"></i>
+                                <span class="more-posts-date" style="margin-top: 1.5em;">
+                                    <%= item.prev.date.format("YYYY") %>
+                                </span>
+                                <span class="more-posts-date">
+                                    <%= item.prev.date.format("MM") %>
+                                </span>
+                            </span>
+                            </p>
+                        </figure>
+                        <div class="media-content">
+                            <div class="content">
+                                <p>
+                                    <strong>
+                                        <a href="<%- url_for(item.prev.path) %>">
+                                            <span class="has-text-info"> <%= item.prev.title %></span>
+                                        </a>
+                                    </strong>
+                                    <br>
+                                    <%- truncate(item.prev.description || strip_html(item.prev.content), { length: 80 }) %>
+                                </p>
+                            </div>
+                        </div>
+                    </article>
+                <% } %>
+            </div>
+            <div class="column">
+                <% if(item.next){ %>
+                    <article class="media">
+                        <figure class="media-left">
+                            <p class="image is-64x64">
+                            <span class="fa-stack fa-2x">
+                                <i class="fa fa-calendar-o fa-stack-2x"></i>
+                                <span class="more-posts-date" style="margin-top: 1.5em;">
+                                    <%= item.next.date.format("YYYY") %>
+                                </span>
+                                <span class="more-posts-date">
+                                    <%= item.next.date.format("MM") %>
+                                </span>
+                            </span>
+                            </p>
+                        </figure>
+                        <div class="media-content">
+                            <div class="content">
+                                <p>
+                                    <strong>
+                                        <a href="<%- url_for(item.next.path) %>">
+                                            <span class="has-text-info"> <%= item.next.title %></span>
+                                        </a>
+                                    </strong>
+                                    <br>
+                                    <%- truncate(item.next.description || strip_html(item.next.content), { length: 80 }) %>
+                                </p>
+                            </div>
+                        </div>
+                    </article>
+                <% } %>
+            </div>
+        </div>
+
+        <%- partial('comment') %>
+    </div>
+</div>
