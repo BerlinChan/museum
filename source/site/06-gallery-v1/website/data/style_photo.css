@@ -1,0 +1,53 @@
+@charset "UTF-8";
+body {
+    margin: 0 0 0 0;
+    text-align: center;
+}
+
+.Blend {
+    filter: BlendTrans(Duration=1);
+}
+
+/*定位层*/
+#ImageLayer {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+#ControlLayer {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+#photoIntroduce {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+#DebugLayer {
+    color: #999999;
+    font-size: 13px;
+    background-color: red;
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+
+.PhotoScroller {
+    overflow: auto;
+    position: relative;
+    height: 405px;
+    width: 540px;
+    left: 0px;
+    top: 0px;
+}
+
+/*定义样式*/
+.Thumbs {
+    cursor: hand;
+}
+
+/*链接样式*/
